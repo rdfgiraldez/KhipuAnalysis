@@ -13,7 +13,7 @@ Python scripts were developed in Jupyter Notebooks.
 
 
 
-##Explanation of the tables in the database
+## Explanation of the tables in the database
 Note: anything with "dc" in the title contains explanations of the abbreviations used in the database, like Ascher cord color OB is "moderate olive brown". I don't know the purpose of the tables labeled "flat" or "processed". If you have any additional insight to the tables, please leave a comment and I'll update the blog entry.
 app_config_data  Creates a database named "collca", (the Quechua word for storehouse) and configures the database.
 archive_dc   Notes for where each khipu archive was found.
