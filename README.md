@@ -1,12 +1,20 @@
 # KhipuAnalysis
 Exploratory Data Analysis of khipus from the Aschers' "Code of the Quipu: Databook", Pereyra's book "Quipus del Museo del Sitio Pachacamac" and Harvard's Khipu Database. 
 
-The folder KhipuDB_SQL was downloaded from khipukamayuq.fas.harvard.eduFeb 4,2021. As the site is no longer active and the database is not posted elsewhere online, I share it here. If the owner of the database requests it to be taken down, I will. KhipuDB_SQL contains multiple files in MySQL format. An explanation of the tables is provided below.
+"Lineplot with cord values" folder contains graphs depicting x=INVESTIGATOR_CORD_NUM (position on the primary cord), y=cord value
+
+"sums" folder contains graphs depicting the total sum of all the cords on a khipu, arranged by archive.
+
+analysis_all_khipus.ipynb is a Jupyter Notebook file that calls all khipu info into pandas dataframes for analysis.
+
+analysis_single_khipu.ipynb is a Jupyter Notebook file that calls a single khipu into pandas dataframes for analysis.
 
 Collca.db is a SQLite database created from KhipuDB_SQL, along with added information from Marcia and Robert Ascher's article "Numbers and Relations from Ancient Andean Quipus", which contains observations AS1-AS9. I have also corrected entries using published sources, such as the Aschers' "Code of the Quipu: Databook", Pereyra's book "Quipus del Museo del Sitio Pachacamac". As I am actively studying the khipus, I will continue to update collca.db as I come across discrepancies. Explanation of the tables is provided below.
 The SQLite database does not require a server. To use, simply download the file and it can be opened with software such as DB Browser for SQLite (https://sqlitebrowser.org/).
 
 KDB key.xlsx is a spreadsheet that explains which table and column holds what data. The intent of the file is to facilitate creating meaningful queries. The same file as a Google Sheet can be accessed here: https://docs.google.com/spreadsheets/d/17HLTuk0MUDv9HWX-Fq8Mz2pfV_8IoVoH_WwUjIfDwsU/edit?usp=sharing
+
+The folder KhipuDB_SQL was downloaded from khipukamayuq.fas.harvard.edu on Feb 4,2021. As the site is no longer active and the database is not posted elsewhere online, I share it here. If the owner of the database requests it to be taken down, I will. KhipuDB_SQL contains multiple files in MySQL format. An explanation of the tables is provided below.
 
 Python scripts were developed in Jupyter Notebooks.
 
