@@ -1,0 +1,8 @@
+
+
+
+42593: S/Z Ply Filter
+UR193, KDB: 1000504
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 1000504, which is not listed in the database.
+CordThick: 6
+Cord 95s16 is listed as having a length of 30.0, while the knots that display below the cord are listed as having start position: 40.0

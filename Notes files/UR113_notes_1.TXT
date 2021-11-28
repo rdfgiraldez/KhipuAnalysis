@@ -1,0 +1,7 @@
+
+
+
+1931.37.0001: S/Z Ply Filter
+UR113, 'Valhalla', KDB: 1000292
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

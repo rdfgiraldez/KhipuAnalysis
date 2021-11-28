@@ -1,0 +1,8 @@
+
+
+
+0638/SP642 Tex 0640 (R.M.RT0638): S/Z Ply Filter
+UR165, KDB: 1000472
+CordThick: 6
+Cord 7s1 is listed as having a length of 48.5, while the knots that display below the cord are listed as having start position: 805.0
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

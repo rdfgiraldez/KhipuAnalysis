@@ -1,0 +1,7 @@
+
+
+
+G3300: S/Z Ply Filter
+AS96, UR1096, KDB: 1000315
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

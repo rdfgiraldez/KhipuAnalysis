@@ -1,0 +1,7 @@
+
+
+
+MSP 1422/Reg. Nac. 43404: S/Z Ply Filter
+HP027, 'HP/AR 027', KDB: 1000446
+CordThick: 6
+The following cord(s) are recorded in the database as having a length of 0.0: 1 (3037865).

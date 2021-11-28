@@ -1,0 +1,6 @@
+
+
+
+VA 42607 b: S/Z Ply Filter
+UR244, KDB: 1000555
+CordThick: 6

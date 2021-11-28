@@ -1,0 +1,7 @@
+
+
+
+VA 66834: S/Z Ply Filter
+UR237, KDB: 1000551
+CordThick: 6
+The following cord(s) are recorded in the database as having a length of 0.0: K1 (3048752), K2 (3048753), K3 (3048754).

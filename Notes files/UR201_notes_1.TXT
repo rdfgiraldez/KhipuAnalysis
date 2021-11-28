@@ -1,0 +1,9 @@
+
+
+
+42597 B: S/Z Ply Filter
+UR201, KDB: 1000512
+CordThick: 6
+There are no notes in KDB to indicate whether or not the pendant cords are looped.
+The primary cord has an unusual beginning, please refer to the notes.
+Cord T2 is listed as having a length of 61.0, while the knots that display below the cord are listed as having start position: 235.0

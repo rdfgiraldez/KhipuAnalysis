@@ -1,0 +1,6 @@
+
+
+
+VA 66837: S/Z Ply Filter
+UR234, KDB: 1000544
+CordThick: 6

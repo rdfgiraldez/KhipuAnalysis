@@ -1,0 +1,7 @@
+
+
+
+MSP 1425B/Reg. Nac. 43406: S/Z Ply Filter
+HP030, 'HP/AR 030', KDB: 1000449
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.

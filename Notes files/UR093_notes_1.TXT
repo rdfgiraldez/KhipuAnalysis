@@ -1,0 +1,8 @@
+
+
+
+s/n: S/Z Ply Filter
+UR093, 'Calliope', KDB: 1000321
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: 17, 127, 206s6, 206s5, 206s4, 206s2, 208s8, 208s5, 208s3, 208s2, 210s7.

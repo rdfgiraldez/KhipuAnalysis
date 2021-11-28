@@ -1,0 +1,6 @@
+
+
+
+VA47095: S/Z Ply Filter
+AS126, UR1126, KDB: 1000083
+CordThick: 6

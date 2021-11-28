@@ -1,0 +1,10 @@
+
+
+
+PAI-008-2016: S/Z Ply Filter
+JC011, KDB: 1000635
+CordThick: 6
+Cord 43 is listed as having a length of 13.5, while the knots that display below the cord are listed as having start position: 15.0
+The knot that appears like a ladder is a double long knot.
+Cord 44 is listed as having a length of 14.5, while the knots that display below the cord are listed as having start position: 15.5
+Cord 68 is listed as having a length of 11.0, while the knots that display below the cord are listed as having start position: 14.5

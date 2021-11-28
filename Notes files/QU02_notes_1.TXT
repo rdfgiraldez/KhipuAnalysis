@@ -1,0 +1,7 @@
+
+
+
+T41299.23: S/Z Ply Filter
+QU02, KDB: 1000455
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 2, 4, 6, 7, 8, 9, 12.

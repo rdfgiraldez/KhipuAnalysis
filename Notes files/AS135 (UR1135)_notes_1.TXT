@@ -1,0 +1,6 @@
+
+
+
+VA47115: S/Z Ply Filter
+AS135, UR1135, KDB: 1000093
+CordThick: 6

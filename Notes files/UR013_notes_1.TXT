@@ -1,0 +1,7 @@
+
+
+
+CMA-628/LC1-257D: S/Z Ply Filter
+UR013, KDB: 1000008
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 1s1, 2s4, 3s3, 3s1, 4s4, 4s3, 4s1, 6s2, 6s1, 8s3, 8s2, 9s2, 10, 13, 14, 15, 17, 18, 19, 21.

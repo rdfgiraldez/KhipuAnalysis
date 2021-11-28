@@ -1,0 +1,6 @@
+
+
+
+#3 Tex 641 Rt 639: S/Z Ply Filter
+UR064, KDB: 1000263
+CordThick: 6

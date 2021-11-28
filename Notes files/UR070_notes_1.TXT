@@ -1,0 +1,7 @@
+
+
+
+6 Tex 641 Rt 639: S/Z Ply Filter
+UR070, KDB: 1000247
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6

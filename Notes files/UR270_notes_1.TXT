@@ -1,0 +1,7 @@
+
+
+
+13830: S/Z Ply Filter
+UR270, KDB: 1000612
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 103s3.

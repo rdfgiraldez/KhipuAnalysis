@@ -1,0 +1,6 @@
+
+
+
+MSP 1385A/Reg. Nac. 43366: S/Z Ply Filter
+HP001, 'HP/AR 001', KDB: 1000420
+CordThick: 6

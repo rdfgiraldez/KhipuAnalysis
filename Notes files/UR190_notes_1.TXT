@@ -1,0 +1,9 @@
+
+
+
+71.1887.9.14: S/Z Ply Filter
+UR190, 'Paciolo', KDB: 1000501
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 1000501, which is not listed in the database.
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 297.
+The following cord(s) are recorded in the database as having a length of 0.0: 346 (3042282).

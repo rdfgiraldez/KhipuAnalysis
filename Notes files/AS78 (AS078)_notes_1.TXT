@@ -1,0 +1,6 @@
+
+
+
+64.19.1.2: S/Z Ply Filter
+AS78, AS078, KDB: 1000172
+CordThick: 6

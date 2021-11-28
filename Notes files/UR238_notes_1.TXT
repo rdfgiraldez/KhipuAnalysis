@@ -1,0 +1,6 @@
+
+
+
+VA 47093: S/Z Ply Filter
+UR238, KDB: 1000552
+CordThick: 6

@@ -1,0 +1,8 @@
+
+
+
+VA 16135 a and VA 16135 b: S/Z Ply Filter
+UR231, 'Odin', KDB: 1000541
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.
+The following cord(s) are recorded in the database as having a length of 0.0: 626 (3047363), 781 (3047518).

@@ -1,0 +1,8 @@
+
+
+
+CMA.625/LC1-254: S/Z Ply Filter
+UR006, 'Calendar Khipu', KDB: 1000025
+CordThick: 6
+This quipu contains cords of an unknown type. Please consult notes.
+The following cords are listed as having an unknown cord ending: 16s1, T1s6, 54s1, 55, 79s1, 145, 174, 217, 239, 299, 330, PA15s9, 347, 390, 396, 397, 404, 458, 479, PA21s6, 511, 525, 534.

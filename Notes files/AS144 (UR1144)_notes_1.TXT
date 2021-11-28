@@ -1,0 +1,6 @@
+
+
+
+VA42564: S/Z Ply Filter
+AS144, UR1144, KDB: 1000119
+CordThick: 6

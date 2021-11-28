@@ -1,0 +1,6 @@
+
+
+
+41.52.30/293B: S/Z Ply Filter
+AS33F, UR1033F, KDB: 1000110
+CordThick: 6

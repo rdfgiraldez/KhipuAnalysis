@@ -1,0 +1,6 @@
+
+
+
+13842: S/Z Ply Filter
+UR271, KDB: 1000613
+CordThick: 6

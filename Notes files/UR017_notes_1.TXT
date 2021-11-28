@@ -1,0 +1,9 @@
+
+
+
+CMA 480/LC1-109A: S/Z Ply Filter
+UR017, KDB: 1000021
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: 1, 5, 8, 10, 13, 16, 19, 19s2, 31, 33, 34, 35, 36, 38, 42, 54s1, 55, 56s1, 61, 63, 64, 64s1, 65, 65s1, 66, n2, T1, 72, 75, 75s1, 82.

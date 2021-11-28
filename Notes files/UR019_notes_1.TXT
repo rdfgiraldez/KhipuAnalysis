@@ -1,0 +1,7 @@
+
+
+
+CMA-480/LC1-109.3: S/Z Ply Filter
+UR019, KDB: 1000000
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 3s1, 4, 6, 6s1, 7, 7s1, 9, 10s1, 13.

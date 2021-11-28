@@ -1,0 +1,7 @@
+
+
+
+41.2/6995: S/Z Ply Filter
+UR169, KDB: 1000477
+CordThick: 6
+Cord 13 is listed as having a length of 3.5, while the knots that display below the cord are listed as having start position: 13.5

@@ -1,0 +1,6 @@
+
+
+
+71.1887.9.15: S/Z Ply Filter
+UR192, KDB: 1000503
+CordThick: 6

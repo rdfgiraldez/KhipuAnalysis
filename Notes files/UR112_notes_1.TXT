@@ -1,0 +1,7 @@
+
+
+
+: S/Z Ply Filter
+UR112, KDB: 1000382
+CordThick: 6
+The knot that appears like a ladder is a double long knot.

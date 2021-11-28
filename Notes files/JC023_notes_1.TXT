@@ -1,0 +1,7 @@
+
+
+
+PAI-1436-2016: S/Z Ply Filter
+JC023, KDB: 1000647
+CordThick: 6
+Cord 30 is listed as having a length of 13.0, while the knots that display below the cord are listed as having start position: 17.5

@@ -1,0 +1,9 @@
+
+
+
+CMA 847-LC1.476 TEQ: S/Z Ply Filter
+UR004, KDB: 1000024
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+This quipu contains cords of an unknown type. Please consult notes.
+The following cords are listed as having an unknown cord ending: 8, 13, 23, 33, 35s1, 42s1, 45s1, 47, 48, 49, 50, 51, 52, 53, 55, 56, 69, 69s1, 72, 74, 76, 81s1, 83, 86, 88, 89, 91, 92, 93, 110, 113, 122, 133, 134, 139, 140, 141, 144, 145, 146, 147, 150, PA1s6, PA1s4, PA1s3, PA1s3s1, 163, 165, 167, 169s1, 171s1, 176, 179, 181, 183, 201s1, T4, T5s1, 210, 213, 218, 220, 234, 235, 242, 243, 247, 250, 253, 261, 266, 273, 274, 278, 284, 286, 290, 303, 305, 314, 319, 323, 328, 332, 333, 334, 336, 337, 338, 341, 342, 359, 361, 365, 370s1, 371s1, 380, 382, 384, 390s1, 392, 400, 404s1, 409, 412, 414.

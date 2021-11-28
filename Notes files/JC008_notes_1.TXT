@@ -1,0 +1,7 @@
+
+
+
+PAI-1156-2016: S/Z Ply Filter
+JC008, KDB: 1000632
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.

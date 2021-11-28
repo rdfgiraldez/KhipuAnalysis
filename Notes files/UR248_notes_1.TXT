@@ -1,0 +1,6 @@
+
+
+
+VA 42608: S/Z Ply Filter
+UR248, KDB: 1000559
+CordThick: 6

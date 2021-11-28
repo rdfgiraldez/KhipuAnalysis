@@ -1,0 +1,6 @@
+
+
+
+TC-0024-02: S/Z Ply Filter
+UR159, KDB: 1000411
+CordThick: 6

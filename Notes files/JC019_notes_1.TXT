@@ -1,0 +1,7 @@
+
+
+
+PAI-1455-2016: S/Z Ply Filter
+JC019, KDB: 1000643
+CordThick: 6
+Cord 3s1 is listed as having a length of 13.0, while the knots that display below the cord are listed as having start position: 17.5

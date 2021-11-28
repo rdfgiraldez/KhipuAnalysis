@@ -1,0 +1,8 @@
+
+
+
+CMA-628/LC1-257E: S/Z Ply Filter
+UR014, KDB: 1000011
+CordThick: 6
+Cord 18s2 is listed as having a length of 0.0, while the knots that display below the cord are listed as having start position: 9.5, 14.5, 23.5
+The following cords are listed as having an unknown cord ending: 5, 5s2, 5s1, 6s2, 7s1, 12, 14s1, 17.

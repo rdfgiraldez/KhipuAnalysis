@@ -1,0 +1,9 @@
+
+
+
+CMA-628/LC1-257C: S/Z Ply Filter
+UR012, KDB: 1000009
+CordThick: 6
+This quipu contains cords of an unknown type. Please consult notes.
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: 3, 4, 6, 7s1, 11s2, 12s1, 12s1s1, 13s1s1, 14s1s1, 19, 29, 38, PA1s5s1, 41, PA2s5, PA2s4s1.

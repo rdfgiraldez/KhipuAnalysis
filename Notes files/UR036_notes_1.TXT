@@ -1,0 +1,7 @@
+
+
+
+CMBE 901/PE-16: S/Z Ply Filter
+UR036, KDB: 1000281
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 1s1s2, 2s1, 5, 5s2, 6.

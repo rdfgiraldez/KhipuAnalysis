@@ -1,0 +1,7 @@
+
+
+
+42508 a: S/Z Ply Filter
+UR213, KDB: 1000524
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 49s7, 95.

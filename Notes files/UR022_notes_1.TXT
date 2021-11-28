@@ -1,0 +1,10 @@
+
+
+
+INC-109: S/Z Ply Filter
+UR022, 'Washed Khipu', KDB: 1000045
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.
+This quipu contains cords of an unknown type. Please consult notes.
+The following cords are listed as having an unknown cord ending: A3, A6, A8, A10, A13, A15, A16, A18, A27, A29, A30, A31, A32, A33, A34, A36, A38, n1, n2, A43, A49, A51, A52, A53, A56, A61, A63, A64, A65, A71, A79, A81, A83, A93, B1, B2, B6, B11s1, B14, B23, B25, B30, B30s1, B31, B33, B40, B63, B67, B69, C1, C5s1, C8s1, C10, C15, C18s2, C19s2, C20, C20s2, C20s1, C21s1, C24s1, C25s2, C28s1, C32, C44s2, C47s2, C47s1, C52s2, C53s2, C56s1, C66, C66s1, C69, C70s1, C74s1, C75, C77, C78, C80s1, C81s2, C81s1, C91s1, C92, C93s1.

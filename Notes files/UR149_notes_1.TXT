@@ -1,0 +1,8 @@
+
+
+
+00253-02: S/Z Ply Filter
+UR149, KDB: 1000413
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 3036275, which is not listed in the database.
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 1000413, which is not listed in the database.
+CordThick: 6

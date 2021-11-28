@@ -1,0 +1,6 @@
+
+
+
+00252-02: S/Z Ply Filter
+UR143, KDB: 1000401
+CordThick: 6

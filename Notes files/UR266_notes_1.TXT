@@ -1,0 +1,7 @@
+
+
+
+13829: S/Z Ply Filter
+UR266, KDB: 1000607
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.

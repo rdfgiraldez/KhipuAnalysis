@@ -1,0 +1,7 @@
+
+
+
+VA 66830: S/Z Ply Filter
+UR235, KDB: 1000545
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.

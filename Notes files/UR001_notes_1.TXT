@@ -1,0 +1,10 @@
+
+
+
+INC/LDC 108, LC1947.TEQ: S/Z Ply Filter
+UR001, KDB: 1000023
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+This quipu contains cords of an unknown type. Please consult notes.
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: X1s16, X1s15, X1s14, X1s12, X1s11, X1s10, X1s9, X1s8, X1s8s1, X1s5, X1s4, X1sS0, X1s2, X1s1, 1, 11, 12, 18s1, 29, 37, 41, 42, 75, 80, 89, 90, 91, 95, 97, 118, 118s1, 120s1, 137, 140, 146s1, 147s1, 150, 153, 154, 159, 160, 161, 162, 166, 167, 168, 169, 170, 171, 173, 175, 176, 177s1, 189, 191, 192, 193s2, 196, 197, 199, 200, 201, 202, 206, 208, 216, L1s15, L1s14, L1s12, L1s11, L1s10, L1s8, L1s6, L1s4, L1s1, 220s16, 223, 228, 235, 235s1, 244, 249, 250, 251, 255, 258, 259, 270, 271, 273, 274, 284, n1s10, n1s2, n1s1, 287, 288, 290, 312, 325, 332, 350, 353, 364, 370s1, 376, 380s2, 380s1, 385, 386.

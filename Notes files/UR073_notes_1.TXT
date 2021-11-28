@@ -1,0 +1,6 @@
+
+
+
+Tex 0637 Rt 0635/28: S/Z Ply Filter
+UR073, '1,8, or 12', KDB: 1000250
+CordThick: 6

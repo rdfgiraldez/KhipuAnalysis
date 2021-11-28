@@ -1,0 +1,10 @@
+
+
+
+36268: S/Z Ply Filter
+UR291A, KDB: 1000658
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.
+Cord 64s1 is listed as having a length of 21.5, while the knots that display below the cord are listed as having start position: 115.5
+Cord 160 is listed as having a length of 33.0, while the knots that display below the cord are listed as having start position: 85.0
+The following cord(s) are recorded in the database as having a length of 0.0: 65 (3058730).

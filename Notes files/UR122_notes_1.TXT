@@ -1,0 +1,8 @@
+
+
+
+1938.45.0228: S/Z Ply Filter
+UR122, KDB: 1000323
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: 48s1, 52, 53s1, 55s2, 55s2s1, 56s1, 57, 58.

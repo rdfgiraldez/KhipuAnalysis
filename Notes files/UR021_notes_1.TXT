@@ -1,0 +1,9 @@
+
+
+
+INC-498: S/Z Ply Filter
+UR021, KDB: 1000022
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+This quipu contains cords of an unknown type. Please consult notes.
+The following cords are listed as having an unknown cord ending: 5, 6, 10, 14, 19, 20, 26, 27, 28, 31s1, 34, 36, 37s1, 39, 39s1, 40, 43s1, n1, n2, 48s1, 49, 51, 52, 52s1, n4, 57, 62s1, 64, 65s1, 66, 68, 70, 72, 73, 80, 81, 83, 85, 86, 88, 92, 96, 96s1, 97s1, 101, 103, 104s1, 109s1, 112, 116, 120, 124, 131, 132, 133, PA1s5.

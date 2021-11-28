@@ -1,0 +1,6 @@
+
+
+
+s/n: S/Z Ply Filter
+UR069, KDB: 1000245
+CordThick: 6

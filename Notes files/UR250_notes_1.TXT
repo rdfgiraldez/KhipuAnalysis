@@ -1,0 +1,6 @@
+
+
+
+VA 47112: S/Z Ply Filter
+UR250, KDB: 1000561
+CordThick: 6

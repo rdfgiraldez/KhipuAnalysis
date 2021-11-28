@@ -1,0 +1,8 @@
+
+
+
+CMA 850/LC1-479: S/Z Ply Filter
+UR009, KDB: 1000019
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 1, 2, 3, 7, 8, 9, 11, 13, 14, 18, 19, 21, 26s5, 26s4, 26s3, 26s1, 27, 31, 33, 39, 44, 45, 47, 49, 54, 56, 72, 75, 78, 86, 88, 92, 93s1, 95, 96s1, 101, 105, 106, 107, 108, 109, 112, 114, 115, 116, 117, 120, 121, 122, 126, 127, 128, 129, 130, 131, 132, 138, 141.

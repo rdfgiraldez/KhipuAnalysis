@@ -1,0 +1,10 @@
+
+
+
+12009-13: S/Z Ply Filter
+UR262, KDB: 1000603
+CordThick: 6
+Cord 41s2 is listed as having a length of 17.5, while the knots that display below the cord are listed as having start position: 18.5
+Cord 75s2 is listed as having a length of 9.0, while the knots that display below the cord are listed as having start position: 25.0
+Cord 100s2 is listed as having a length of 10.5, while the knots that display below the cord are listed as having start position: 25.0
+Cord 132s2s1 is listed as having a length of 7.5, while the knots that display below the cord are listed as having start position: 10.5

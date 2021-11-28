@@ -1,0 +1,7 @@
+
+
+
+42.28.30/4532: S/Z Ply Filter
+AS32, UR1032, KDB: 1000103
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6

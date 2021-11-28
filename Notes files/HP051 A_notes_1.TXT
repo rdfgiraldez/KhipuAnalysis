@@ -1,0 +1,7 @@
+
+
+
+MNAAHP 5726 A: S/Z Ply Filter
+HP051 A, KDB: 1000581
+CordThick: 6
+Cord 16 is listed as having a length of 27.0, while the knots that display below the cord are listed as having start position: 29.5

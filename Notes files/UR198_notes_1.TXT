@@ -1,0 +1,7 @@
+
+
+
+63039: S/Z Ply Filter
+UR198, KDB: 1000509
+CordThick: 6
+Cord 7 is listed as having a length of 11.0, while the knots that display below the cord are listed as having start position: 18.5

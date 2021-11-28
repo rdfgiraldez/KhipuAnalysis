@@ -1,0 +1,7 @@
+
+
+
+G.3320: S/Z Ply Filter
+UR026, KDB: 1000335
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 30, 32, 34, 36.

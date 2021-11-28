@@ -1,0 +1,8 @@
+
+
+
+B/8713: S/Z Ply Filter
+UR166, KDB: 1000496
+CordThick: 6
+There were not detailed enough notes associated with this khipu in the KDB to determine which, if any, top cords looped through the pendant attachments. Due to having the same start and end positions, it is guessed that some top cords do loop through and are drawn as such.
+The following cord(s) are recorded in the database as having a length of 0.0: 23 (3041065).

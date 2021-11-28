@@ -1,0 +1,7 @@
+
+
+
+CMA-628/LC1 257B TEQ: S/Z Ply Filter
+UR002, KDB: 1000012
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 6, 7, 8, 9, 11, 12, 15s1, 18, 20, 21, 24, 25, 34, 35, 36s1, 38s1, 39s1, 42, 43, 47, 48, 48s1, 49, 50, 50s1, 52s1, 53, 53s1, 55, 55s2, 56s2, 56s1, 57s1s1, 58s2, 58s1, 60, 61, 63, 64, 66, 67, 69, 69s1s1.

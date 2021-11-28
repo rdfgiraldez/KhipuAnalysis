@@ -1,0 +1,7 @@
+
+
+
+MNAAHP3550: S/Z Ply Filter
+HP036, KDB: 1000565
+CordThick: 6
+Cord 49s1 is listed as having a length of 24.0, while the knots that display below the cord are listed as having start position: 30.5

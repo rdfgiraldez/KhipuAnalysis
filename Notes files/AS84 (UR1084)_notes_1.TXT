@@ -1,0 +1,8 @@
+
+
+
+71.1930.19.470: S/Z Ply Filter
+AS84, UR1084, KDB: 1000344
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

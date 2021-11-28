@@ -1,0 +1,7 @@
+
+
+
+CMA-373/LC2-002: S/Z Ply Filter
+UR016, KDB: 1000018
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 8s1, 20s1, 26s1, 27, 27s1, 31s2, 39, 59, 70s4, 81, 83, 84, 87s1, 95s1, 97, 101, 103s1, 116s1, 127s2, 146s4, 151s1, 159s1, 162s1, 163, 166s2, 175s1, 177, 185, 185s1, 187s1, 191, 192, 194, 196, 210s1, 215, 218.

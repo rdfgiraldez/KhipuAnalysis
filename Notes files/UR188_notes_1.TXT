@@ -1,0 +1,7 @@
+
+
+
+71.1930.19.483: S/Z Ply Filter
+UR188, KDB: 1000499
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.

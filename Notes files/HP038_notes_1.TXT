@@ -1,0 +1,7 @@
+
+
+
+MNAAHP: S/Z Ply Filter
+HP038, KDB: 1000567
+CordThick: 6
+Cord 15s2 is listed as having a length of 8.0, while the knots that display below the cord are listed as having start position: 12.0

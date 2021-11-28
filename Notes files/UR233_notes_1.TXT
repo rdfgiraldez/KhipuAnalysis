@@ -1,0 +1,6 @@
+
+
+
+VA 63038 b: S/Z Ply Filter
+UR233, KDB: 1000543
+CordThick: 6

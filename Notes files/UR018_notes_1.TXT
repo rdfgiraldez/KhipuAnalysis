@@ -1,0 +1,8 @@
+
+
+
+CMA-480/LC1-109B: S/Z Ply Filter
+UR018, KDB: 1000003
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: 3s1, 5s1, 10, 20, 22, 22s1.

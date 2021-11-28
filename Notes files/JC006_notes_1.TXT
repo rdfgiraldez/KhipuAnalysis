@@ -1,0 +1,6 @@
+
+
+
+PAI-002-2016: S/Z Ply Filter
+JC006, KDB: 1000630
+CordThick: 6

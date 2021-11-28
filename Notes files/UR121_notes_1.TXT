@@ -1,0 +1,6 @@
+
+
+
+1938.45.231: S/Z Ply Filter
+UR121, KDB: 1000322
+CordThick: 6

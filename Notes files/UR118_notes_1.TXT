@@ -1,0 +1,7 @@
+
+
+
+31.37.2.b: S/Z Ply Filter
+UR118, KDB: 1000293
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

@@ -1,0 +1,8 @@
+
+
+
+VA47106B: S/Z Ply Filter
+AS162A, UR1162A, KDB: 1000135
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

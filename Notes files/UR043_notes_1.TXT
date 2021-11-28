@@ -1,0 +1,8 @@
+
+
+
+41.70.30/3110: S/Z Ply Filter
+UR043, KDB: 1000101
+CordThick: 6
+This quipu contains cords of an unknown type. Please consult notes.
+The following cords are listed as having an unknown cord ending: PA1.

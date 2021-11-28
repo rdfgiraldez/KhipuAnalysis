@@ -1,0 +1,6 @@
+
+
+
+VA24370A: S/Z Ply Filter
+AS106, UR1106, KDB: 1000050
+CordThick: 6

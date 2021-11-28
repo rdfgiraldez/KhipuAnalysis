@@ -1,0 +1,9 @@
+
+
+
+7: S/Z Ply Filter
+AS57, UR1057, KDB: 1000183
+CordThick: 6
+This quipu contains cords of an unknown type. Please consult notes.
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cord(s) are recorded in the database as having a length of 0.0: 135 (3038457).

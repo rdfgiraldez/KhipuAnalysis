@@ -1,0 +1,9 @@
+
+
+
+: S/Z Ply Filter
+UR085, KDB: 1000280
+CordThick: 6
+Cord 129s1 is listed as having a length of 2.0, while the knots that display below the cord are listed as having start position: 20.5
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: 4s1, 40, 42s1, 46s2, 95, 103.

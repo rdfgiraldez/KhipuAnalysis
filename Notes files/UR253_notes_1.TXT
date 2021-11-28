@@ -1,0 +1,7 @@
+
+
+
+SAM 12405: S/Z Ply Filter
+UR253, KDB: 1000591
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.

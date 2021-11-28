@@ -1,0 +1,7 @@
+
+
+
+R4248: S/Z Ply Filter
+UR037, KDB: 1000331
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 4, 49, 61, 91, 101, 152.

@@ -1,0 +1,7 @@
+
+
+
+VA 42594: S/Z Ply Filter
+UR241, KDB: 1000549
+CordThick: 6
+There are no notes in KDB to indicate whether or not the pendant cords are looped.

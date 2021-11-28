@@ -1,0 +1,8 @@
+
+
+
+TX 4/5446: S/Z Ply Filter
+UR032, KDB: 1000330
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 15, 17, 21, n1, 33, 35.

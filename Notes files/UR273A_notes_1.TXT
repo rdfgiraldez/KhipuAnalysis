@@ -1,0 +1,7 @@
+
+
+
+13831-2014: S/Z Ply Filter
+UR273A, KDB: 1000615
+CordThick: 6
+Cord 1s1 is listed as having a length of 31.5, while the knots that display below the cord are listed as having start position: 35.5

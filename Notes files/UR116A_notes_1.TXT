@@ -1,0 +1,8 @@
+
+
+
+1929.26.0157a-b: S/Z Ply Filter
+UR116A, KDB: 1000285
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6
+The following cords are listed as having an unknown cord ending: 1, 5, 15s4, 15s2, 27s3, 50, 65, 79.

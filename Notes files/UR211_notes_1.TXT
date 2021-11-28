@@ -1,0 +1,8 @@
+
+
+
+16141 b: S/Z Ply Filter
+UR211, KDB: 1000522
+CordThick: 6
+Cord 56 is listed as having a length of 18.0, while the knots that display below the cord are listed as having start position: 26.5
+Cord 58 is listed as having a length of 16.5, while the knots that display below the cord are listed as having start position: 26.5

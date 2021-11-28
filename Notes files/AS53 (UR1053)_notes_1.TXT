@@ -1,0 +1,7 @@
+
+
+
+2: S/Z Ply Filter
+AS53, UR1053, KDB: 1000169
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

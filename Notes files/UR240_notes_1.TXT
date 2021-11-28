@@ -1,0 +1,6 @@
+
+
+
+VA 66839: S/Z Ply Filter
+UR240, KDB: 1000554
+CordThick: 6

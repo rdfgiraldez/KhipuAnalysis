@@ -1,0 +1,7 @@
+
+
+
+3344-1: S/Z Ply Filter
+UR056A, KDB: 1000295
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+CordThick: 6

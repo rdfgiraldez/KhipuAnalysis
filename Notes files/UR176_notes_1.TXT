@@ -1,0 +1,6 @@
+
+
+
+B/8705: S/Z Ply Filter
+UR176, KDB: 1000493
+CordThick: 6

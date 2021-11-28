@@ -1,0 +1,6 @@
+
+
+
+VA47070: S/Z Ply Filter
+AS100, UR1100, KDB: 1000042
+CordThick: 6

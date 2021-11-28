@@ -1,0 +1,6 @@
+
+
+
+VA 42610: S/Z Ply Filter
+UR247, KDB: 1000558
+CordThick: 6

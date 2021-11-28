@@ -1,0 +1,6 @@
+
+
+
+SAM 12402: S/Z Ply Filter
+UR252, KDB: 1000590
+CordThick: 6

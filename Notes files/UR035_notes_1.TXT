@@ -1,0 +1,10 @@
+
+
+
+780: S/Z Ply Filter
+UR035, 'chilean khipu', KDB: 1000279
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 3023239, which is not listed in the database.
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 3023240, which is not listed in the database.
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 3023295, which is not listed in the database.
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.

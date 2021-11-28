@@ -1,0 +1,9 @@
+
+
+
+1745: S/Z Ply Filter
+UR281, KDB: 1000648
+CordThick: 6
+The primary cord has an unusual beginning, please refer to the notes.
+Cord 2 is listed as having a length of 6.0, while the knots that display below the cord are listed as having start position: 7.0, 17.5, 26.5
+Cord 18 is listed as having a length of 26.0, while the knots that display below the cord are listed as having start position: 28.5

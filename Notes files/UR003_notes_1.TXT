@@ -1,0 +1,11 @@
+
+
+
+CMA-419/LC1-048 TEQ: S/Z Ply Filter
+UR003, KDB: 1000020
+Some cord names were listed as 'null' in the Database, they have been represented as n1, n2, etc.
+There is an error in the database. Some subsidiary cords are listed as being attached to cord ID 3002288, which is not listed in the database.
+CordThick: 6
+Color information was not provided in the Khipu Database for some cords. They have been drawn in gray.
+The following cords are listed as having an unknown cord ending: 5s2, 14s1, 15, 25s1, 34s2, 35s1, 37, 45s6, 49, 50, 54s3, 54s1, 55s5, 55s4, 56, 60, 61, 65, 65s5, 65s4, 65s3, 65s2, 66, 70, 71, 72, 73, 74, 74s1, 75, 75s6, 75s5, 75s3, 76, 77, 82, 84s3, 85, 86, 87s2, 90, 91, 92, 93, 94, 94s1, 96, 99, 99s1, 105s3, 106, 106s5s2, 106s5s1, 107, 110s1, 111, 112, 113, 114s1, 115, 116s6, 116s4s1, 116s3s1, 116s2, 117, 119s4, 119s3, 125s3, 126, 127, 130, 132, 133, 135, 136s1, 221s2, 232s1.
+The following cord(s) are recorded in the database as having a length of 0.0: 213s1 (3036866).

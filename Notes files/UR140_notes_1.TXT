@@ -1,0 +1,6 @@
+
+
+
+00270-02: S/Z Ply Filter
+UR140, KDB: 1000408
+CordThick: 6

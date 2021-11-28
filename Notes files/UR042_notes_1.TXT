@@ -1,0 +1,6 @@
+
+
+
+32.30.30/53a: S/Z Ply Filter
+UR042, KDB: 1000100
+CordThick: 6

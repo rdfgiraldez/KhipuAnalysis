@@ -1,0 +1,7 @@
+
+
+
+B/8704: S/Z Ply Filter
+UR177, KDB: 1000494
+CordThick: 6
+Cord 7s2 is listed as having a length of 18.0, while the knots that display below the cord are listed as having start position: 19.5
