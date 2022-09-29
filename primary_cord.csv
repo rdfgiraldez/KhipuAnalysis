@@ -1,0 +1,646 @@
+,KHIPU_ID,PCORD_ID,STRUCTURE,THICKNESS,NOTES,ATTACHED_TO,PCORD_LENGTH,FIBER,TERMINATION,BEGINNING,CREATED_BY,CREATED_DATE,CHANGED_BY,CHANGED_DATE,TWIST,plainnotes,tail_length
+0,1000000,1000000,P,0.0,,0.0,26.0,CN,K,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,18.5
+1,1000001,1000001,P,0.0,nudo de comienzo entre 0.0 - 0.5 cm,0.0,16.5,CN,K,T,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,nudo de comienzo entre 0.0 - 0.5 cm,11.0
+2,1000002,1000002,P,0.0,solamente existe cordon principal entre: 0.0-5.0 y 5.5-9.0 cm,0.0,10.5,CL,,,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,solamente existe cordon principal entre: 0.0-5.0 y 5.5-9.0 cm,0.0
+3,1000003,1000003,P,0.0,4.0 cm: nudo que une khipu 109B con up Top Cord del khipu 109A.,0.0,98.0,CN,K,K,cbrezine,2011-11-24 03:42:40,cbrezine,2003-05-29 16:40:36,S,4.0 cm: nudo que une khipu 109B con up Top Cord del khipu 109A.,0.5
+4,1000004,1000004,P,0.0,65.5 cm: una prolongacion del cordon principal /o pen. 157,0.0,65.5,CN,K,T,cbrezine,2011-11-24 03:42:40,cbrezine,2004-03-03 20:05:20,S,65.5 cm: una prolongacion del cordon principal /o pen. 157,0.0
+5,1000005,1000005,P,0.0,At 7.0 cm there is a knot which appears to unite two khipu,0.0,23.5,CN,K,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,At 7.0 cm there is a knot which appears to unite two khipu,3.0
+6,1000006,1000006,P,0.0,,0.0,29.0,CN,,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,7.0
+7,1000007,1000007,P,0.0,,0.0,132.0,CN,K,,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,59.5
+8,1000008,1000008,P,0.0,The beginning knot joins this khipu to UR12 and UR15. The knot around 22.5 joins it with UR14. ,0.0,46.0,CN,K,K,cbrezine,2011-11-24 03:42:40,cbrezine,2003-06-05 15:57:20,S,The beginning knot joins this khipu to UR12 and UR15. The knot around 22.5 joins it with UR14. ,22.5
+9,1000009,1000009,P,0.0,This khipu is attached to 257E/UR14 and to 257D/UR13,0.0,49.0,CN,K,,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,This khipu is attached to 257E/UR14 and to 257D/UR13,1.5
+10,1000010,1000010,P,0.0,,0.0,56.0,CN,K,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,2.0
+11,1000011,1000011,P,0.0,,0.0,77.5,CN,K,,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,1.0
+12,1000012,1000012,P,0.0,,0.0,39.5,CN,D,T,cbrezine,2011-11-24 03:42:40,gurton,2007-12-12 20:49:49,S,,0.0
+13,1000013,1000013,,0.0,,0.0,30.0,,K,B,katie,2011-11-24 03:42:40,katie,2003-06-11 16:20:32,U,,11.0
+14,1000014,1000014,,0.0,,0.0,77.0,,K,T,katie,2011-11-24 03:42:40,katie,2003-06-25 14:58:04,U,,53.0
+15,1000015,1000015,,0.0,"The primary cord is actually broken into two pieces.  The ""marker"" at 12.0 cm is actually a break between separate pieces of the quipu which were not necessarily connected at that point.",0.0,16.5,,B,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,"The primary cord is actually broken into two pieces.  The ""marker"" at 12.0 cm is actually a break between separate pieces of the quipu which were not necessarily connected at that point.",3.0
+16,1000016,1000016,W,0.0,The main cord is finished with a thread wrapping that extends for 1.0 cm.,0.0,71.5,,K,B,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,The main cord is finished with a thread wrapping that extends for 1.0 cm.,5.0
+17,1000017,1000017,,0.0,,0.0,81.0,CN,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,64.0
+18,1000018,1000018,P,0.0,,0.0,100.0,CN,K,,katie,2011-11-24 03:42:40,cbrezine,2004-03-03 19:25:50,Z,,2.0
+19,1000019,1000019,P,0.0,,0.0,90.0,CN,D,K,katie,2011-11-24 03:42:40,gurton,2010-04-07 14:25:52,S,,1.0
+20,1000020,1000020,P,0.0,1. (Beginning:) $ Nudo de comienzo (cordon doblado),,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.0
+21,1000021,1000021,P,0.0,,0.0,75.5,CN,K,K,katie,2011-11-24 03:42:40,katie,2003-06-25 14:49:30,S,,1.0
+22,1000022,1000022,P,0.0,"AT 117.0 cm, nudo final; prolongacion del c.p. por medio de un hilo atado como pendiente.",0.0,132.0,CN,K,,katie,2011-11-24 03:42:40,katie,2003-06-19 13:30:25,S,"AT 117.0 cm, nudo final; prolongacion del c.p. por medio de un hilo atado como pendiente.",15.0
+23,1000023,1000025,P,0.0,,0.0,147.0,CN,K,K,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.0
+24,1000024,1000023,P,0.0,Total length calculated from last measurement (123.0) plus space (72.0) and an additional 2.0 to account for the group of 9 pendants.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,72.0
+25,1000025,1000024,P,0.0,,0.0,220.0,CN,K,K,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,51.5
+26,1000026,1000026,,0.0,,0.0,17.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,8.5
+27,1000027,1000027,,0.0,,0.0,29.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.0
+28,1000028,1000028,,0.0,,0.0,55.0,,B,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,22.0
+29,1000029,1000029,,0.0,AS207B and AS207C are attached to the primary cord in the gap of 40.5-43.5 cm (as indicated by the knots).,0.0,97.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-06-26 21:11:20,U,AS207B and AS207C are attached to the primary cord in the gap of 40.5-43.5 cm (as indicated by the knots).,45.0
+30,1000030,1000031,,0.0,,0.0,12.0,,B,T,katie,2011-11-24 03:42:40,katie,2003-06-26 21:12:22,U,,2.0
+31,1000031,1000030,,0.0,,0.0,45.5,,K,T,katie,2011-11-24 03:42:40,luca,2005-02-15 21:08:40,U,,8.0
+32,1000032,1000032,,0.0,Construction note: The end of the main cord has been cut or cut and wrapped.  This finishing may be intentional and the quipu complete.  At 19.5 cm the main cord has been repaired or joined to another piece of the same cord.,0.0,59.0,,K,,katie,2011-11-24 03:42:40,katie,2003-06-27 18:29:20,U,Construction note: The end of the main cord has been cut or cut and wrapped.  This finishing may be intentional and the quipu complete.  At 19.5 cm the main cord has been repaired or joined to another piece of the same cord.,5.5
+33,1000033,1000033,,0.0,,0.0,58.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,26.0
+34,1000034,1000034,,0.0,1.  Two cords of 30 cm and 19 cm are knotted together and knotted to the main cord within the 9.5 cm space between pendants 61 and 62.  Both cords appear to have been cut.  The cords are undyed (W) but have marks of being unravelled from some mottled combination.  The cord attachments do not appear to be part of the original khipu construction and there is nowhere on the khipu they seem to come from.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,18.0
+35,1000035,1000035,,0.0,,0.0,34.5,,K,B,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,28.0
+36,1000036,1000036,,0.0,Cords 1 and 2 are linked through the twisted end of the main cord so that they dangle from the end of the main cord.,0.0,43.0,,K,T,katie,2011-11-24 03:42:40,katie,2003-06-30 16:39:45,U,Cords 1 and 2 are linked through the twisted end of the main cord so that they dangle from the end of the main cord.,30.0
+37,1000037,1000038,,0.0,,0.0,41.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,18.5
+38,1000038,1000037,,0.0,These fragments were not attached to any primary cord.,0.0,0.0,,,,katie,2011-11-24 03:42:40,katie,2003-06-30 17:07:48,U,These fragments were not attached to any primary cord.,0.0
+39,1000039,1000039,,0.0,,0.0,206.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-02 18:58:16,S,,175.0
+40,1000040,1000040,P,0.0,"The main cord begins with a woven cord ball.  The ball is DB, 1.0 cm thick, and 1.5 cm long.",,,,,woven cord ball,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,120.0
+41,1000041,1000041,,0.0,,0.0,96.0,,K,T,katie,2011-11-24 03:42:40,cbrezine,2004-04-01 16:59:29,S,,62.0
+42,1000042,1000042,,0.0,,0.0,156.0,,K,T,katie,2011-11-24 03:42:40,cbrezine,2004-04-01 17:06:55,S,,113.0
+43,1000043,1000043,,0.0,The twisted ends of the main cords of the 2 parts are tied together with a square knot.,0.0,46.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-01 16:22:25,U,The twisted ends of the main cords of the 2 parts are tied together with a square knot.,41.0
+44,1000044,1000044,,0.0,The twisted ends of the main cords of the 2 parts are tied together in a square knot.,0.0,26.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,The twisted ends of the main cords of the 2 parts are tied together in a square knot.,20.0
+45,1000045,1000045,P,0.0,See notes for construction of primary cord within wooden bar.,0.0,25.5,CN,,WB,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,See notes for construction of primary cord within wooden bar.,0.0
+46,1000046,1000046,,0.0,,0.0,44.5,,K,T,katie,2011-11-24 03:42:40,cbrezine,2004-04-01 17:07:23,S,,3.5
+47,1000047,1000047,,0.0,"The beginning is twisted, as normal, but then the end of the main cord has been formed into a loop by bending it back on itself and binding it in place.  Two pendants (1-2) are suspended from the end loop.  See Ascher and Ascher 1987:710 for drawing.",0.0,60.5,,K,D,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"The beginning is twisted, as normal, but then the end of the main cord has been formed into a loop by bending it back on itself and binding it in place.  Two pendants (1-2) are suspended from the end loop.  See Ascher and Ascher 1987:710 for drawing.",39.5
+48,1000048,1000048,W,0.0,"Main cord consists of ""Br:W S-plyed yarns which are Z-wrapped by Br:W yarns""",0.0,55.5,CN,K,T,katie,2013-05-03 14:36:09,julia,2013-05-03 14:36:09,Z,"Main cord consists of ""Br:W S-plyed yarns which are Z-wrapped by Br:W yarns""",52.0
+49,1000049,1000049,P,0.0,,0.0,38.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,27.0
+50,1000050,1000051,,0.0,"This khipu is threaded through a wooden bar (see diagram, Ascher and Ascher 1987:721).  The ""groups"" represent pendants clustered on loops of the main cord between two holes in the wood.",0.0,0.0,,,,katie,2011-11-24 03:42:40,katie,2003-07-03 13:49:44,S,"This khipu is threaded through a wooden bar (see diagram, Ascher and Ascher 1987:721).  The ""groups"" represent pendants clustered on loops of the main cord between two holes in the wood.",0.0
+51,1000051,1000050,P,0.0,AS107 is loosely tied around the wooden bar through which AS106 is threaded.,0.0,129.5,,K,B,katie,2011-11-24 03:42:40,katie,2003-07-02 21:13:58,S,AS107 is loosely tied around the wooden bar through which AS106 is threaded.,1.0
+52,1000052,1000052,P,0.0,,0.0,33.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-03 14:51:38,S,,15.0
+53,1000053,1000053,P,0.0,,0.0,143.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,31.5
+54,1000054,1000054,,0.0,,0.0,36.0,,U,T,katie,2011-11-24 03:42:40,katie,2003-07-03 20:23:58,U,,26.0
+55,1000055,1000055,,0.0,,0.0,53.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,46.5
+56,1000056,1000056,,0.0,"This quipu is threaded through a wooden bar.  (The pendants appear to be listed in order along the cord, with the possible exception of P7-13, because the cord loops through a hole.)",0.0,0.0,,,,katie,2011-11-24 03:42:40,katie,2003-07-03 21:08:24,S,"This quipu is threaded through a wooden bar.  (The pendants appear to be listed in order along the cord, with the possible exception of P7-13, because the cord loops through a hole.)",0.0
+57,1000057,1000057,P,0.0,,0.0,167.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,88.5
+58,1000058,1000058,,0.0,,0.0,36.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,3.0
+59,1000059,1000059,,0.0,,0.0,22.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,15.5
+60,1000060,1000060,,0.0,,0.0,74.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,60.0
+61,1000061,1000061,P,0.49,,0.0,24.5,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 15:56:15,S,,1.0
+62,1000062,1000062,P,0.35,The main cord is finished with a cotton bulb that is 2.0 cm in cross-section.,0.0,19.0,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 16:07:07,S,The main cord is finished with a cotton bulb that is 2.0 cm in cross-section.,5.5
+63,1000063,1000063,P,0.0,,0.0,133.0,,B,T,katie,2011-11-24 03:42:40,katie,2003-07-07 19:53:12,S,,38.5
+64,1000064,1000064,,0.0,"Another pendant, just after pendant 5, was probably present as indicated by the discoloration on the main cord.",0.0,38.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-08 15:54:08,U,"Another pendant, just after pendant 5, was probably present as indicated by the discoloration on the main cord.",27.5
+65,1000065,1000065,,0.0,There are no knots on the pendant cords.,0.0,62.0,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-08 16:18:54,U,There are no knots on the pendant cords.,36.0
+66,1000066,1000066,P,0.21,,0.0,22.0,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 16:06:09,S,,3.0
+67,1000067,1000067,P,0.37,,0.0,33.0,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 15:39:20,S,,24.5
+68,1000068,1000068,P,0.21,,0.0,21.5,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 15:53:00,S,,18.0
+69,1000069,1000069,P,0.26,,0.0,43.0,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 16:28:19,S,,35.5
+70,1000070,1000070,,0.0,,0.0,75.0,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-17 15:56:47,S,,68.0
+71,1000071,1000071,,0.0,"Main cord positions were extrapolated for all groups, as only initial positions of ""group/top cord/group/space"" clusters were recorded.",0.0,62.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-08 18:37:44,U,"Main cord positions were extrapolated for all groups, as only initial positions of ""group/top cord/group/space"" clusters were recorded.",30.0
+72,1000072,1000072,,0.0,,0.0,33.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-09 13:33:50,S,,1.0
+73,1000073,1000073,P,0.0,,0.0,39.0,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-09 14:36:27,S,,29.0
+74,1000074,1000074,B,0.0,"The main cord is braided D0:W, S-wrapped with D0.",,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,61.5
+75,1000075,1000075,P,0.0,,0.0,50.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-09 14:35:51,S,,45.5
+76,1000076,1000076,P,0.0,,0.0,107.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,75.0
+77,1000077,1000077,P,0.0,,0.0,161.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,1.5
+78,1000078,1000078,,0.0,,0.0,48.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-09 19:50:00,U,,32.0
+79,1000079,1000079,P,0.0,,0.0,72.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,57.5
+80,1000080,1000080,P,0.0,This khipu is threaded through a wooden bar.  See diagram in Ascher and Ascher 1987:815.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.0
+81,1000081,1000081,P,0.0,This khipu is attached to AS124.  It is looped and tied into the main cord after all the pendant (and knot) before the broken end.,0.0,26.0,,K,B,katie,2011-11-24 03:42:40,katie,2003-07-11 18:45:15,Z,This khipu is attached to AS124.  It is looped and tied into the main cord after all the pendant (and knot) before the broken end.,0.5
+82,1000082,1000082,,0.0,,0.0,62.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.5
+83,1000083,1000083,P,0.0,Main cord is Z-plyed and then S-wrapped with a white cord.,0.0,153.0,,K,K,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,Main cord is Z-plyed and then S-wrapped with a white cord.,5.5
+84,1000084,1000084,,0.0,,0.0,18.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,11.5
+85,1000085,1000085,,0.0,,0.0,84.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,18.0
+86,1000086,1000086,,0.0,,0.0,63.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,1.0
+87,1000087,1000087,P,0.0,,0.0,59.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,51.0
+88,1000088,1000088,,0.0,"The khipu terminates in a fringed woven ball (drawing pg 850 of Ascher and Ascher 1987).  There are 5 ribs on the ball each approx 0.3 cm wide and separated from the next rib by 0.5 cm.  Thus, the ball measures about 4.0 cm around and is 1.25 cm at its widest.",0.0,101.5,,,,katie,2011-11-24 03:42:40,katie,2003-07-15 16:49:24,U,"The khipu terminates in a fringed woven ball (drawing pg 850 of Ascher and Ascher 1987).  There are 5 ribs on the ball each approx 0.3 cm wide and separated from the next rib by 0.5 cm.  Thus, the ball measures about 4.0 cm around and is 1.25 cm at its widest.",5.0
+89,1000089,1000089,P,0.0,The main cord is made up of 3 cords.,0.0,200.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,The main cord is made up of 3 cords.,101.5
+90,1000090,1000090,,0.0,,0.0,60.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,55.5
+91,1000091,1000091,,0.0,,0.0,129.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,44.5
+92,1000092,1000092,,0.0,,0.0,72.0,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-16 15:37:27,U,,49.0
+93,1000093,1000093,P,0.0,,0.0,37.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,27.5
+94,1000094,1000094,P,0.0,Attached to wooden bar,0.0,0.0,,WB,,katie,2011-11-24 03:42:40,katie,2003-07-16 16:23:09,S,Attached to wooden bar,0.0
+95,1000095,1000095,,0.0,The beginning is both knotted and twisted.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.0
+96,1000096,1000096,,0.0,About 20.0 cm of the main cord is tied in one large knot.,0.0,513.5,,K,K,katie,2011-11-24 03:42:40,katie,2003-07-29 16:06:25,U,About 20.0 cm of the main cord is tied in one large knot.,0.5
+97,1000097,1000097,P,0.25,,0.0,218.0,CN,R,T,katie,2011-11-24 03:42:40,gurton,2010-09-28 19:44:17,S,,170.0
+98,1000098,1000098,P,0.0,,0.0,79.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,45.5
+99,1000099,1000099,P,0.0,"Primary cord appears to have previously been cord-wrapped (s-wrapping); however, the cord-wrapping has been removed (leaving its impression and some discoloration).  Removing the cord-wrapping would have necessitated removing pendant strings and reattaching them later.",0.0,90.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,"Primary cord appears to have previously been cord-wrapped (s-wrapping); however, the cord-wrapping has been removed (leaving its impression and some discoloration).  Removing the cord-wrapping would have necessitated removing pendant strings and reattaching them later.",42.0
+100,1000100,1000100,P,0.0,"Khipu 32.30.30/53 is composed of two khipus tied together (A & B).  Pendants 24 and 25 appear to be a single string, looped through the end of khipu A.",0.0,89.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"Khipu 32.30.30/53 is composed of two khipus tied together (A & B).  Pendants 24 and 25 appear to be a single string, looped through the end of khipu A.",0.0
+101,1000101,1000101,P,0.0,Main cord: three constituents,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,24.5
+102,1000102,1000102,P,0.0,"Main cord:  3 constituents: S-spun, Z-plied, S final ply.",,0.0,,,,,2012-09-21 14:56:11,julia,2012-09-21 14:56:11,,,167.5
+103,1000103,1000103,P,0.0,Main cord: 2 components,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.5
+104,1000105,1000104,P,0.0,,0.0,61.5,,K,T,katie,2011-11-24 03:42:40,tania,2006-10-23 22:02:45,U,,37.5
+105,1000106,1000105,P,0.0,"Primary cord is knotted around the primary cord of khipu AS033A.  The first three pendant strings are outside the knot, thus it is difficult to know how the pendant string directions of these three relate to that of the other pendant strings of this khipu.",0.0,47.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-31 20:21:41,S,"Primary cord is knotted around the primary cord of khipu AS033A.  The first three pendant strings are outside the knot, thus it is difficult to know how the pendant string directions of these three relate to that of the other pendant strings of this khipu.",32.0
+106,1000107,1000106,P,0.0,thickness about 0.2 cm,0.0,30.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,thickness about 0.2 cm,14.5
+107,1000108,1000107,P,0.0,thickness is about 0.2 cm,0.0,39.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-07-31 20:48:32,S,thickness is about 0.2 cm,20.0
+108,1000109,1000108,P,0.0,,0.0,22.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,19.0
+109,1000110,1000109,P,0.0,,0.0,16.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.0
+110,1000111,1000110,P,0.0,"Main cord of Khipu AS033F now passes through plies of main cord of khipu AS033G.  At this end, primary cord of AS033G passes through plies of AS033F.",,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,16.0
+111,1000112,1000111,,0.0,"The main cord was passed through its twisted end to form a loop of 1.0 cm (pendants 1-3 are on this loop), see diagram in Ascher and Ascher 1987:897.",0.0,61.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,"The main cord was passed through its twisted end to form a loop of 1.0 cm (pendants 1-3 are on this loop), see diagram in Ascher and Ascher 1987:897.",52.5
+112,1000113,1000112,P,0.0,,0.0,38.5,,K,K,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,11.0
+113,1000114,1000113,,0.0,,0.0,46.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,25.0
+114,1000115,1000114,P,0.0,"Pendants are actually attached to cord running through the bar; cord is brown, Z-spun, S-plied.",0.0,0.0,,U,WB,katie,2011-11-24 03:42:40,katie,2003-08-01 15:40:01,S,"Pendants are actually attached to cord running through the bar; cord is brown, Z-spun, S-plied.",0.0
+115,1000116,1000115,,0.0,,0.0,28.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,13.5
+116,1000117,1000116,,0.0,The main cord is finished by being bent back and inserted through its own strands.,0.0,17.0,,,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,The main cord is finished by being bent back and inserted through its own strands.,6.0
+117,1000118,1000117,P,0.0,Main cord is Z-plyed BB:W which is S-wrapped with BB cord.,0.0,300.5,,K,T,katie,2011-11-24 03:42:40,katie,2003-08-01 19:11:02,Z,Main cord is Z-plyed BB:W which is S-wrapped with BB cord.,9.5
+118,1000119,1000118,B,0.0,"Primary cord: brown and white cords are first braided and then the braid is wrapped with a white string (S-wrapped), see photo",0.0,52.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"Primary cord: brown and white cords are first braided and then the braid is wrapped with a white string (S-wrapped), see photo",3.5
+119,1000120,1000119,P,0.0,,0.0,143.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,111.5
+120,1000121,1000120,P,0.0,,0.0,55.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,32.5
+121,1000122,1000121,P,0.0,,0.0,73.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,59.0
+122,1000123,1000122,P,0.0,,0.0,56.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,41.5
+123,1000124,1000123,P,0.0,,0.0,77.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,,16.0
+124,1000125,1000124,P,0.0,The main cord was S-spun AND S-plyed.,0.0,110.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,The main cord was S-spun AND S-plyed.,38.5
+125,1000126,1000125,P,0.0,Main cord is Br:W S-plyed then Z-wrapped with Br:W cords,0.0,92.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Main cord is Br:W S-plyed then Z-wrapped with Br:W cords,73.5
+126,1000127,1000126,P,0.0,"Main cord: three strand, Z-spun, S-plyed",0.0,69.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"Main cord: three strand, Z-spun, S-plyed",13.0
+127,1000128,1000127,,0.0,The end of the main cord is bent back and inserted through the strands of the cord.,0.0,16.0,,D,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,The end of the main cord is bent back and inserted through the strands of the cord.,1.5
+128,1000129,1000128,P,0.0,,0.0,45.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,35.5
+129,1000130,1000129,,0.0,,0.0,43.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,33.5
+130,1000131,1000130,,0.0,,0.0,80.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,43.0
+131,1000132,1000131,,0.0,,0.0,39.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,27.0
+132,1000133,1000132,,0.0,,0.0,23.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,14.0
+133,1000134,1000133,P,0.0,The main cord of the quipu is formed into a large loop by having its knotted end passed through its twisted end.  This loop occurs 2.0 cm after the group of pendants (leaving 7.0 cm after the loop).,0.0,17.0,,K,D,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,The main cord of the quipu is formed into a large loop by having its knotted end passed through its twisted end.  This loop occurs 2.0 cm after the group of pendants (leaving 7.0 cm after the loop).,9.0
+134,1000135,1000134,P,0.0,The B main cord (AS162A) is extended by a W main cord (AS162B).  The W main cord is formed into a large loop by being passed through its own twisted end.  It has also been passed through the twisted end of the B main cord so that it dangles from the end of the B cord.  (See diagram in Ascher and Ascher 1987:1001.),0.0,31.5,,K,X,katie,2011-11-24 03:42:40,katie,2003-08-05 17:05:51,S,The B main cord (AS162A) is extended by a W main cord (AS162B).  The W main cord is formed into a large loop by being passed through its own twisted end.  It has also been passed through the twisted end of the B main cord so that it dangles from the end of the B cord.  (See diagram in Ascher and Ascher 1987:1001.),17.0
+135,1000136,1000135,P,0.0,The B main cord (AS162A) is extended by a W main cord (AS162B).  The W main cord is formed into a large loop by being passed through its own twisted end.  It has also been passed through the twisted end of the B main cord so that it dangles from the end of the B cord.  (See diagram in Ascher and Ascher 1987:1001.),0.0,36.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,The B main cord (AS162A) is extended by a W main cord (AS162B).  The W main cord is formed into a large loop by being passed through its own twisted end.  It has also been passed through the twisted end of the B main cord so that it dangles from the end of the B cord.  (See diagram in Ascher and Ascher 1987:1001.),29.0
+136,1000137,1000136,P,0.0,,0.0,25.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,4.0
+137,1000138,1000137,,0.0,,0.0,34.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,18.0
+138,1000139,1000138,P,0.0,,0.0,60.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,51.0
+139,1000140,1000139,P,0.0,,0.0,59.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.5
+140,1000141,1000140,P,0.0,,0.0,62.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,51.0
+141,1000142,1000141,P,0.0,,0.0,44.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,23.5
+142,1000143,1000142,,0.0,,0.0,53.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.0
+143,1000144,1000143,P,0.0,,0.0,63.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,29.0
+144,1000145,1000144,,0.0,,0.0,20.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,3.5
+145,1000146,1000145,,0.0,,0.0,54.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,1.0
+146,1000147,1000146,P,0.0,Main cord is Br+W and Z-ply,0.0,210.0,,K,B,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,Main cord is Br+W and Z-ply,115.0
+147,1000148,1000147,P,0.0,,0.0,51.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.0
+148,1000149,1000148,,0.0,,0.0,29.0,AH,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,5.0
+149,1000150,1000149,,0.0,,0.0,33.0,AH,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,18.0
+150,1000151,1000150,P,0.0,,0.0,22.0,,K,K,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.0
+151,1000152,1000151,P,0.0,The main cord is finished by being bent back on itself and wound with B colored cord for 2.0 cm (see drawing Ascher and Ascher 1987:1100).,0.0,44.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,The main cord is finished by being bent back on itself and wound with B colored cord for 2.0 cm (see drawing Ascher and Ascher 1987:1100).,1.0
+152,1000153,1000152,,0.0,,0.0,116.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,33.0
+153,1000154,1000153,,0.0,,0.0,14.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,12.0
+154,1000155,1000154,,0.0,,0.0,54.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,36.0
+155,1000156,1000155,,0.0,,0.0,29.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,25.5
+156,1000157,1000156,,0.0,,0.0,24.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,15.0
+157,1000158,1000157,,0.0,,0.0,32.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,7.0
+158,1000159,1000158,,0.0,,0.0,33.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,5.5
+159,1000160,1000159,,0.0,,0.0,91.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,55.0
+160,1000161,1000160,,0.0,,0.0,55.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,33.0
+161,1000162,1000161,,0.0,,0.0,48.5,,U,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,30.0
+162,1000163,1000162,P,0.16,,0.0,30.0,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 16:45:21,S,,21.0
+163,1000164,1000163,P,0.3,The twisted end of the main cord was folded back and secured with a white cord wrapping.,0.0,33.0,CN,B,T,katie,2011-11-24 03:42:40,gurton,2010-02-16 16:53:17,S,The twisted end of the main cord was folded back and secured with a white cord wrapping.,0.0
+164,1000165,1000164,,0.26,,0.0,58.0,CN,K,T,katie,2011-11-24 03:42:40,gurton,2010-02-17 16:49:35,S,,36.0
+165,1000166,1000165,,0.0,,0.0,73.0,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,59.0
+166,1000167,1000166,,0.0,,0.0,21.5,,K,T,katie,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,7.0
+167,1000168,1000167,,0.0,,0.0,46.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,37.5
+168,1000169,1000168,,0.0,Thickness is about 0.24 cm,0.0,42.5,,K,T,leah,2011-11-24 03:42:40,gurton,2007-12-12 22:43:14,U,Thickness is about 0.24 cm,30.0
+169,1000170,1000169,,0.0,,0.0,29.0,,K,T,leah,2011-11-24 03:42:40,gurton,2008-01-07 16:51:11,S,,20.0
+170,1000171,1000170,,0.0,,0.0,53.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,40.0
+171,1000172,1000171,,0.31,1 AB + 2 YB,0.0,64.0,CN,K,T,leah,2011-11-24 03:42:40,gurton,2010-09-07 19:18:53,S,,39.5
+172,1000173,1000172,,0.0,,0.0,36.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,26.5
+173,1000174,1000173,,0.0,,0.0,10.0,,B,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.0
+174,1000175,1000174,,0.0,,0.0,21.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,17.0
+175,1000176,1000175,,0.0,,0.0,60.5,,K,T,leah,2011-11-24 03:42:40,gurton,2008-01-07 18:04:50,S,,47.0
+176,1000177,1000176,,0.0,,0.0,55.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,52.0
+177,1000178,1000177,,0.0,,0.0,36.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,20.5
+178,1000179,1000178,,0.0,,0.0,21.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,14.0
+179,1000180,1000179,,0.0,,0.0,27.0,,B,B,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.0
+180,1000181,1000180,,0.0,,0.0,81.0,,K,T,leah,2011-11-24 03:42:40,leah,2003-10-27 20:41:57,U,,0.5
+181,1000182,1000181,,0.0,,0.0,36.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,33.5
+182,1000183,1000438,,0.0,,0.0,195.5,,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,23.0
+183,1000184,1000183,,0.0,,0.0,26.5,,B,B,leah,2011-11-24 03:42:40,leah,2003-11-10 21:09:36,U,,0.0
+184,1000185,1000184,,0.0,"Any indication of the color names ""Blue"" or ""Red"" in the Ascher notes are only estimates.  No references were made to the color charts.  In this case, BG represents ""Blue"" and RM represents ""Red.""",0.0,81.0,,U,K,leah,2011-11-24 03:42:40,leah,2003-11-18 15:53:29,U,"Any indication of the color names ""Blue"" or ""Red"" in the Ascher notes are only estimates.  No references were made to the color charts.  In this case, BG represents ""Blue"" and RM represents ""Red.""",33.0
+185,1000186,1000185,,0.0,There is a loop attachment at 6.0 cm.,0.0,34.0,,K,T,leah,2011-11-24 03:42:40,leah,2003-11-25 16:18:23,U,There is a loop attachment at 6.0 cm.,23.0
+186,1000187,1000186,,0.0,,0.0,43.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,26.0
+187,1000188,1000187,,0.0,,0.0,24.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,13.0
+188,1000189,1000188,,0.0,The color designation W/RM refers to a white cord with a thin thread wrapped around it.  The thread wrapping forms a 0.5 cm wide band from 2.5 cm - 3.0 cm.,0.0,7.0,,B,T,leah,2011-11-24 03:42:40,gurton,2003-11-21 21:14:02,U,The color designation W/RM refers to a white cord with a thin thread wrapped around it.  The thread wrapping forms a 0.5 cm wide band from 2.5 cm - 3.0 cm.,0.0
+189,1000190,1000189,,0.0,,0.0,28.0,,K,T,leah,2011-11-24 03:42:40,leah,2003-11-25 17:15:38,U,,4.0
+190,1000191,1000190,,0.0,,0.0,12.0,,U,T,leah,2011-11-24 03:42:40,leah,2003-11-25 17:15:10,U,,6.0
+191,1000192,1000191,,0.0,,0.0,47.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,13.0
+192,1000194,1000192,,0.0,Start of main cord is turned back and inserted through itself forming a closed loop of 1.0 cm.,0.0,19.0,,K,D,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,Start of main cord is turned back and inserted through itself forming a closed loop of 1.0 cm.,16.5
+193,1000195,1000193,,0.0,,0.0,23.5,,B,B,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,1.5
+194,1000196,1000194,,0.0,,0.0,88.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,26.0
+195,1000197,1000195,,0.0,,0.0,17.0,,B,X,leah,2011-11-24 03:42:40,cbrezine,2004-04-01 16:47:36,U,,0.0
+196,1000198,1000196,,0.0,,0.0,87.5,,K,X,leah,2011-11-24 03:42:40,leah,2003-12-02 19:20:33,U,,28.0
+197,1000199,1000197,,0.0,,0.0,61.5,,U,B,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,52.0
+198,1000200,1000198,,0.0,,0.0,16.0,,B,B,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.0
+199,1000201,1000199,,0.0,,0.0,66.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,30.0
+200,1000202,1000200,,0.0,Group 5 consists of a loop attachment holding 4 pendant cords.,0.0,43.0,,K,T,leah,2011-11-24 03:42:40,leah,2004-01-09 17:30:33,U,Group 5 consists of a loop attachment holding 4 pendant cords.,26.0
+201,1000204,1000201,,0.0,,0.0,26.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,17.0
+202,1000205,1000202,,0.0,,0.0,5.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,3.0
+203,1000206,1000203,,0.0,,0.0,22.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,14.0
+204,1000207,1000204,,0.0,,0.0,41.0,,B,T,leah,2011-11-24 03:42:40,leah,2004-01-21 19:52:38,U,,23.0
+205,1000208,1000205,,0.0,,0.0,29.9,,U,T,leah,2011-11-24 03:42:40,leah,2004-01-21 20:59:48,U,,16.0
+206,1000209,1000206,,0.0,,0.0,29.0,,K,T,leah,2011-11-24 03:42:40,leah,2004-02-04 20:56:42,U,,9.5
+207,1000210,1000207,,0.0,,0.0,23.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,9.0
+208,1000211,1000208,,0.0,,0.0,31.0,,K,T,leah,2011-11-24 03:42:40,leah,2004-02-06 21:19:30,U,,13.0
+209,1000212,1000209,,0.0,,0.0,34.0,,B,B,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,6.0
+210,1000213,1000210,,0.0,,0.0,39.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,16.5
+211,1000214,1000211,,0.0,,0.0,39.0,CN,B,T,leah,2011-11-24 03:42:40,gurton,2008-01-30 21:25:40,S,,27.0
+212,1000216,1000216,,0.0,,0.0,21.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,14.5
+213,1000217,1000212,,0.0,,0.0,63.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,14.0
+214,1000218,1000218,,0.0,,0.0,2.0,,B,K,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.0
+215,1000220,1000213,P,0.0,,0.0,14.5,CN,K,T,leah,2011-11-24 03:42:40,gurton,2010-02-19 20:32:55,S,,6.5
+216,1000221,1000214,,0.0,,0.0,38.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,22.5
+217,1000222,1000215,,0.0,,0.0,49.5,CN,K,T,leah,2011-11-24 03:42:40,gurton,2010-02-19 16:53:13,S,,33.5
+218,1000223,1000217,,0.0,,0.0,20.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,3.0
+219,1000224,1000219,,0.0,,0.0,36.0,,K,B,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,31.0
+220,1000225,1000220,,0.0,,0.0,48.5,,B,T,leah,2011-11-24 03:42:40,leah,2004-02-24 19:12:59,U,,9.0
+221,1000226,1000221,,0.0,,0.0,19.5,,B,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,13.5
+222,1000227,1000222,,0.0,,0.0,33.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,23.0
+223,1000228,1000223,,0.0,,0.0,13.0,,B,B,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,0.0
+224,1000229,1000224,,0.0,,0.0,112.5,,K,K,leah,2011-11-24 03:42:40,leah,2004-02-27 21:10:32,U,,60.0
+225,1000230,1000225,,0.0,thickness is about 0.4 cm,0.0,15.0,CN,K,B,leah,2011-11-24 03:42:40,tania,2006-10-24 22:52:30,S,thickness is about 0.4 cm,0.5
+226,1000231,1000226,,0.0,,0.0,63.0,,K,T,leah,2011-11-24 03:42:40,leah,2004-03-10 22:02:25,U,,7.0
+227,1000232,1000227,,0.0,,0.0,51.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,40.0
+228,1000233,1000228,,0.0,,0.0,23.5,,B,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,3.0
+229,1000234,1000229,,0.0,,0.0,66.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,42.0
+230,1000235,1000230,,0.0,,0.0,60.5,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,29.0
+231,1000236,1000231,,0.0,,0.0,46.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,18.0
+232,1000237,1000232,,0.0,,0.0,62.0,,K,T,leah,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,1.0
+233,1000238,1000233,,0.25,almost completely broken in the space between groups 19 and 20 and broken in the space between groups 27 and 28,0.0,78.5,CN,B,B,leah,2011-11-24 03:42:40,leah,2004-04-13 18:54:01,S,almost completely broken in the space between groups 19 and 20 and broken in the space between groups 27 and 28,0.5
+234,1000239,1000234,,0.2,Thickness ranges from 0.168 to 0.23 cm.,0.0,68.5,CN,D,K,leah,2011-11-24 03:42:40,leah,2004-04-30 19:11:10,S,Thickness ranges from 0.168 to 0.23 cm.,5.0
+235,1000240,1000235,,0.15,two beginning knots at 2.5 cm,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,7.5
+236,1000241,1000236,,0.3,,0.0,24.0,CN,B,B,leah,2011-11-24 03:42:40,leah,2004-05-07 19:44:58,S,,0.5
+237,1000242,1000237,P,0.03,Beginning and end of primary cord are knotted together so that primary cord forms a loop. ,0.0,20.0,CN,K,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Beginning and end of primary cord are knotted together so that primary cord forms a loop. ,15.0
+238,1000243,1000238,P,0.03,"Primary cord has complex color patterning typical of Puruchuco khipu.  The final cord has three components: KB, W, and W-AB.  These three are plied together.  Before final plying, primary cord has two components: one of KB interlocked with W at the doubling point, one of AB interlocked with W at the doubling point.  The presumption is that the W and AB cord was doubled and plied Z, then the KB W cord was doubled and all three were plied together S.  For sketch, see original notes.  Color shorthand KB-W-(W-AB).  ",0.0,52.0,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"Primary cord has complex color patterning typical of Puruchuco khipu.  The final cord has three components: KB, W, and W-AB.  These three are plied together.  Before final plying, primary cord has two components: one of KB interlocked with W at the doubling point, one of AB interlocked with W at the doubling point.  The presumption is that the W and AB cord was doubled and plied Z, then the KB W cord was doubled and all three were plied together S.  For sketch, see original notes.  Color shorthand KB-W-(W-AB).  ",40.5
+239,1000244,1000239,P,2.5,Primary cord probably had another color previously,0.0,47.0,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Primary cord probably had another color previously,20.5
+240,1000245,1000240,P,2.7,,0.0,35.0,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,22.0
+241,1000246,1000241,P,2.0,Dark brown plies have disintegrated.  Color is more accurately notated as (AB-CB) - AB.  All of these elements are the same size; there are about 6 elements in each bundle.  ,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,44.0
+242,1000247,1000242,P,0.0,The brown color is disintegrating in places.,0.0,29.0,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,The brown color is disintegrating in places.,13.0
+243,1000248,1000243,P,2.1,"Final cord has three components: one solid, two barber pole: MB- (CB-W)-(CB-W).  ",,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,56.5
+244,1000249,1000244,P,3.0,Each component of the primary cord has 9 2-ply components.  ,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,43.0
+245,1000250,1000245,P,0.0,Very little of primary cord visible. ,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.0
+246,1000251,1000246,P,3.5,,0.0,51.0,CN,R,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,15.0
+247,1000252,1000247,P,2.0,"Typical Puruchuco primary cord structure: two plain components, one barberpole component.  W - KB - (W-KB)",0.0,53.0,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,"Typical Puruchuco primary cord structure: two plain components, one barberpole component.  W - KB - (W-KB)",35.5
+248,1000253,1000248,P,2.0,,0.0,41.5,CN,K,D,cbrezine,2011-11-24 03:42:40,cbrezine,2004-08-19 19:57:15,S,,31.5
+249,1000254,1000249,P,3.3,Characteristic Puruchuco primary cord structure: (AB-KB) - AB-KB,0.0,37.5,CN,R,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Characteristic Puruchuco primary cord structure: (AB-KB) - AB-KB,34.0
+250,1000255,1000250,P,1.7,spiralled with knotted end inside,0.0,36.0,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,spiralled with knotted end inside,6.0
+251,1000256,1000251,P,2.8,"Urton thinks primary cord is olive green; Brezine sees more blue, such as GL.  Characteristic Puruchuco primary cord arrangement: (TG-MB) - TG - MB.  Blue portions of cord have 12-13 2-ply  components; brown has 26 2 ply components, counted at ravelled end. ",0.0,50.0,CN,R,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,"Urton thinks primary cord is olive green; Brezine sees more blue, such as GL.  Characteristic Puruchuco primary cord arrangement: (TG-MB) - TG - MB.  Blue portions of cord have 12-13 2-ply  components; brown has 26 2 ply components, counted at ravelled end. ",40.0
+252,1000257,1000252,P,2.2,"This cord would usually be denoted RL:W, mottled.  It is composed of four strands of RL and W barberpoled. (RL-W) x 4",0.0,66.5,CN,K,D,cbrezine,2011-11-24 03:42:40,cbrezine,2004-08-20 14:00:44,U,"This cord would usually be denoted RL:W, mottled.  It is composed of four strands of RL and W barberpoled. (RL-W) x 4",56.0
+253,1000258,1000253,P,1.6,Characteristic Puruchuco patterning: (W-KB) - W - KB,0.0,84.0,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,Characteristic Puruchuco patterning: (W-KB) - W - KB,69.0
+254,1000259,1000254,P,2.7,"Characteristic Puruchuco cord patterning: (AB-W) - W - MB.  (Browns may be the same color, hard to tell).  All four components are the same size.  ",0.0,57.0,CN,K,D,cbrezine,2011-11-24 03:42:40,cbrezine,2004-09-01 15:14:40,S,"Characteristic Puruchuco cord patterning: (AB-W) - W - MB.  (Browns may be the same color, hard to tell).  All four components are the same size.  ",27.0
+255,1000260,1000255,P,3.4,Primary cord tapers towards knot. ,0.0,67.0,CN,K,D,cbrezine,2011-11-24 03:42:40,cbrezine,2004-08-20 20:21:31,S,Primary cord tapers towards knot. ,57.5
+256,1000261,1000256,P,0.0,(AB-AB) - (GG-W),0.0,73.5,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,(AB-AB) - (GG-W),64.5
+257,1000262,1000257,P,0.0,The tassel is of red camelid  2-ply S yarns; the cord itself is of cotton.  The join between the tassel and the cord is wrapped with brown cotton thread for about 3 cm.  Wrapping forms a cone shape.  Measurements begin at the far edge of the wrapping.  The tassel is about 2.5 cm long; tassel length is variable and is not included in cord measurement.  A dark brown element has been lost from the primary cord.  All primary cord components are the same size.  (AB-AB-AB-KB)-(AB-AB),0.0,75.0,CC,K,TL,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,The tassel is of red camelid  2-ply S yarns; the cord itself is of cotton.  The join between the tassel and the cord is wrapped with brown cotton thread for about 3 cm.  Wrapping forms a cone shape.  Measurements begin at the far edge of the wrapping.  The tassel is about 2.5 cm long; tassel length is variable and is not included in cord measurement.  A dark brown element has been lost from the primary cord.  All primary cord components are the same size.  (AB-AB-AB-KB)-(AB-AB),46.0
+258,1000263,1000258,P,2.7,CB-AB-(AB-CB),0.0,62.5,CN,K,D,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,CB-AB-(AB-CB),38.0
+259,1000264,1000259,P,2.8,"Primary cord has two components, each of which has 4 (?) elements.  Each of the final two includes AB, MB, HB.  Ascher description would be AB:MB:HB for these components; more accurately described as (AB-MB)-(AB-HB).   There is an ""anomolous knot or bulge"" in primary cord in 1 cm space between groups at 34 cm and 37 cm (between cords 104 and 105).",0.0,115.0,CN,K,T,cbrezine,2011-11-24 03:42:40,cbrezine,2004-08-24 13:37:38,S,"Primary cord has two components, each of which has 4 (?) elements.  Each of the final two includes AB, MB, HB.  Ascher description would be AB:MB:HB for these components; more accurately described as (AB-MB)-(AB-HB).   There is an ""anomolous knot or bulge"" in primary cord in 1 cm space between groups at 34 cm and 37 cm (between cords 104 and 105).",76.5
+260,1000265,1000260,P,6.0,Cord is 3-ply final S.  Each ply is RL-AB-GG.  Final effect RL:AB:GG.  ,0.0,79.0,CN,R,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Cord is 3-ply final S.  Each ply is RL-AB-GG.  Final effect RL:AB:GG.  ,56.0
+261,1000266,1000261,P,0.0,"Three ply cord, final S.  End of cord is wrapped for 1.5 cm with thread color RL.  The plies are colored (MB:W) - (MB:W) - MB. ",,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,36.0
+262,1000267,1000262,P,0.0,Three ply cord.  (W-RL-KB) - (W-RL-KB) - AB.  The end of the cord is wrapped with KB thread for 1.5 cm. ,0.0,77.0,CN,,B,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Three ply cord.  (W-RL-KB) - (W-RL-KB) - AB.  The end of the cord is wrapped with KB thread for 1.5 cm. ,62.0
+263,1000268,1000263,P,0.0,"The beginning of the cord is inside the wrapping which attaches A, D & E together.  The end is wrapped with white thread for 4.0 cm.  The cord is 3-ply",0.0,69.5,CN,,,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"The beginning of the cord is inside the wrapping which attaches A, D & E together.  The end is wrapped with white thread for 4.0 cm.  The cord is 3-ply",49.0
+264,1000269,1000264,P,0.0,"Three ply cord, W-W-MB.  End of cord is wrapped with AB thread for 3 cm.  Beginning of cord is raveled.  At 20.5 - 22.5 cm is an MB wrapping which joins A, D and E.  ",0.0,103.5,CN,,,cbrezine,2011-11-24 03:42:40,cbrezine,2004-09-24 18:25:04,S,"Three ply cord, W-W-MB.  End of cord is wrapped with AB thread for 3 cm.  Beginning of cord is raveled.  At 20.5 - 22.5 cm is an MB wrapping which joins A, D and E.  ",83.0
+265,1000270,1000265,P,0.28,Three components: AB - AB - (LG:AB),0.0,162.5,CN,K,D,cbrezine,2012-12-11 18:14:56,julia,2012-12-11 18:14:56,,Three components: AB - AB - (LG:AB),150.0
+266,1000271,1000266,P,0.0,"The doubled end of the primary cord is wrapped for 2.5 cm with white thread. The borla is attached to the double end and is strong yellow (SY), probably camelid.   The cord itself is of three components: (AB - W) - AB - W",0.0,154.0,CN,K,TL,cbrezine,2012-04-09 20:15:20,julia,2012-04-09 20:15:20,Z,"The doubled end of the primary cord is wrapped for 2.5 cm with white thread. The borla is attached to the double end and is strong yellow (SY), probably camelid.   The cord itself is of three components: (AB - W) - AB - W",126.0
+267,1000272,1000267,P,0.35,two elements,0.0,38.5,CN,R,D,cbrezine,2012-04-09 20:27:17,julia,2012-04-09 20:27:17,,two elements,23.0
+268,1000273,1000268,P,0.34,"The cord has three components:  2 of GG -AB, one of KB - AB.  These three are plied together to create the final cord.  The borla is of red and yellow camelid, approx. 2.0 cm long. From 2.0 to 3.5 the primary cord is wrapped with thread. ",0.0,126.5,CN,K,TL,cbrezine,2012-12-11 18:14:14,julia,2012-12-11 18:14:14,,"The cord has three components:  2 of GG -AB, one of KB - AB.  These three are plied together to create the final cord.  The borla is of red and yellow camelid, approx. 2.0 cm long. From 2.0 to 3.5 the primary cord is wrapped with thread. ",36.0
+269,1000274,1000269,P,0.2,"The dark brown color is disintegrated.  At 45.0 cm two of the plies are tied off in a knot.  Cord has four components: W - W - AB - KB, all barber poled together. ",0.0,123.5,CN,K,D,cbrezine,2012-04-09 19:56:32,julia,2012-04-09 19:56:32,S,"The dark brown color is disintegrated.  At 45.0 cm two of the plies are tied off in a knot.  Cord has four components: W - W - AB - KB, all barber poled together. ",91.5
+270,1000275,1000270,P,0.25,cord has two components. ,0.0,139.5,CN,K,D,cbrezine,2012-04-09 18:42:04,julia,2012-04-09 18:42:04,,cord has two components. ,92.5
+271,1000276,1000271,P,3.9,Three strand: 2 W strands and one MB:W strand ( all Z-ply ) final S ply,0.0,57.0,W,D,K,luca,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Three strand: 2 W strands and one MB:W strand ( all Z-ply ) final S ply,47.0
+272,1000277,1000272,P,0.0,,0.0,32.0,CN,B,K,luca,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,3.0
+273,1000279,1000273,P,0.0,"10- In general, the subsidiaries of pendants on khipu UR35 are oriented so that those on adjacent pendants go in opposite directions. This should/may form paired sets of pendants. However, this feature seems to be more common on the first half of the khipu than the second half. ",,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,1.0
+274,1000280,1000274,,0.48,"1- Between groupings 5 and 6 there are loose cords which are knotted together in an overhand knot, then knotted loosely around the primary cord. These cords may be loose subsidiaries and are not included in the pendant count. ",,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,33.5
+275,1000281,1000275,P,0.0,,0.0,55.0,W,K,T,cbrezine,2011-11-24 03:42:40,eric,1970-02-26 02:56:07,S,,47.0
+276,1000283,1000277,P,0.0,This khipu has a loose string with 4 subsidiaries (see notes).,0.0,6.5,CN,B,B,chandra,2011-11-24 03:42:40,Chandra,2005-06-22 19:00:46,S,This khipu has a loose string with 4 subsidiaries (see notes).,0.5
+277,1000285,1000278,P,0.0,There are an additional 3 strings tied on with red thread between pendants 2 and 4.,0.0,21.5,CN,B,B,Chandra,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,There are an additional 3 strings tied on with red thread between pendants 2 and 4.,0.0
+278,1000286,1000279,P,0.23,,0.0,34.5,CN,K,B,chandra,2011-11-24 03:42:40,chandra,2005-06-30 16:11:45,S,,24.5
+279,1000287,1000280,P,0.24,"Some pendants have colored threads introduced during the plying, producing a change of color down the length of the string.  This is not a spike.  The threads are camelid with vivid red.",0.0,76.0,CN,B,B,chandra,2011-11-24 03:42:40,chandra,2005-06-28 16:27:36,S,"Some pendants have colored threads introduced during the plying, producing a change of color down the length of the string.  This is not a spike.  The threads are camelid with vivid red.",0.0
+280,1000288,1000281,P,0.15,Pendant 13 passes through the looped end of khipu UR117B.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.0
+281,1000289,1000282,P,0.0,Connected to pendant #13 of UR117A.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,10.0
+282,1000290,1000283,P,0.25,The doubled beginning of this cord interlocks with UR117B at 34.0 cm of UR117B.,0.0,38.5,CN,K,D,chandra,2011-11-24 03:42:40,chandra,2005-06-29 17:22:24,S,The doubled beginning of this cord interlocks with UR117B at 34.0 cm of UR117B.,1.5
+283,1000291,1000284,P,0.0,The doubled beginning of this cord connects with UR117C.,0.0,34.0,CN,K,D,chandra,2011-11-24 03:42:40,chandra,2005-06-29 17:23:07,S,The doubled beginning of this cord connects with UR117C.,1.5
+284,1000292,1000285,P,0.28,,0.0,135.0,CN,K,D,chandra,2011-11-24 03:42:40,chandra,2005-06-29 19:24:28,S,,7.0
+285,1000293,1000286,P,0.25,All of the top cords are looped through the attachments of their group pendants.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,5.0
+286,1000295,1000288,P,0.0,-The beginning of this cord is ravelled with a knot connecting it to UR56B.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.0
+287,1000296,1000289,P,2.23,Khipu UR56C is lashed onto this khipu beginning at 29.0 cm until the end at 36.0 cm.,0.0,36.0,CN,,,chandra,2011-11-24 03:42:40,chandra,2005-08-11 17:21:30,S,Khipu UR56C is lashed onto this khipu beginning at 29.0 cm until the end at 36.0 cm.,20.5
+288,1000297,1000290,,1.5,,0.0,57.0,,,B,chandra,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,49.0
+289,1000298,1000291,P,0.24,The termination end of this khipu is ravelled/broken.,0.0,25.5,CL,R,K,chandra,2011-11-24 03:42:40,chandra,2005-08-11 18:45:17,S,The termination end of this khipu is ravelled/broken.,1.5
+290,1000299,1000292,P,0.3,UR58A and UR58B appear to be two parts of a once much larger khipu containing some 106 cords (58 + 48 = 106).,0.0,110.5,CL,K,B,chandra,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,UR58A and UR58B appear to be two parts of a once much larger khipu containing some 106 cords (58 + 48 = 106).,18.0
+291,1000300,1000293,P,0.17,,0.0,90.0,CN,K,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,72.0
+292,1000301,1000294,P,0.18,Attached to UR131A and UR131C.  ,0.0,74.0,CN,K,K,cbrezine,2011-11-24 03:42:40,cbrezine,2005-09-14 21:53:25,S,Attached to UR131A and UR131C.  ,55.0
+293,1000302,1000295,P,0.25,,0.0,44.5,CN,R,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,28.5
+294,1000303,1000296,P,0.33,"at twisted (doubled) end, khipu is spliced to UR028.  ",0.0,43.0,CN,D,K,cbrezine,2011-11-24 03:42:40,eric,1970-02-26 03:14:29,S,"at twisted (doubled) end, khipu is spliced to UR028.  ",3.5
+295,1000304,1000297,P,0.28,,0.0,54.0,CN,K,T,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,30.0
+296,1000305,1000298,P,0.28,,0.0,30.0,CN,K,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,15.5
+297,1000306,1000299,P,0.21,"Knot which joins UR024 to URo20 is at 30.5 cm from ""beginning"" end. ",0.0,39.0,CN,K,K,cbrezine,2011-11-24 03:42:40,cbrezine,2005-09-30 21:11:54,S,"Knot which joins UR024 to URo20 is at 30.5 cm from ""beginning"" end. ",1.0
+298,1000307,1000300,P,0.21,"At beginning end, pCord is knotted to UR024.  At the other end, it is knotted to other khipu.  (Which one?)",0.0,7.0,CN,K,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"At beginning end, pCord is knotted to UR024.  At the other end, it is knotted to other khipu.  (Which one?)",1.0
+299,1000309,1000301,P,0.2,At 1.5 cm the cord is knotted with UR023.  The termination end is knotted and raveled. ,0.0,13.0,CN,K,T,cbrezine,2011-11-24 03:42:40,cbrezine,2005-10-03 17:44:52,S,At 1.5 cm the cord is knotted with UR023.  The termination end is knotted and raveled. ,2.5
+300,1000310,1000302,P,0.0,Thickness = 0.15,0.0,86.0,CN,K,D,cbrezine,2011-11-24 03:42:40,cbrezine,2005-12-06 18:18:32,S,Thickness = 0.15,29.0
+301,1000312,1000303,,0.0,Thickness = 0.21 cm,0.0,79.0,,K,T,tania,2011-11-24 03:42:40,tania,2006-10-31 22:10:48,S,Thickness = 0.21 cm,0.5
+302,1000313,1000304,,0.0,thickness = 0.22 cm,0.0,100.5,,K,T,tania,2011-11-24 03:42:40,tania,2006-10-31 01:00:00,Z,thickness = 0.22 cm,55.5
+303,1000314,1000305,,0.0,thickness = 0.13 cm,0.0,89.0,,K,T,tania,2011-11-24 03:42:40,tania,2006-02-06 18:51:59,S,thickness = 0.13 cm,17.0
+304,1000315,1000306,,0.0,thickness = 0.28 cm,0.0,66.0,,,,tania,2011-11-24 03:42:40,tania,2006-02-09 20:38:04,S,thickness = 0.28 cm,0.0
+305,1000316,1000307,,0.34,,0.0,56.0,CN,K,K,tania,2011-11-24 03:42:40,tania,2006-02-13 18:49:47,S,,34.5
+306,1000317,1000308,,0.0,,0.0,5.0,CL,,,tania,2011-11-24 03:42:40,tania,2006-02-14 21:32:22,S,,1.0
+307,1000318,1000309,,0.17,,0.0,52.0,CL,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,43.5
+308,1000319,1000310,,0.0,,0.0,10.0,,,,tania,2011-11-24 03:42:40,tania,2006-02-15 19:34:05,S,,4.0
+309,1000320,1000311,,0.45,,0.0,46.5,,B,B,tania,2011-11-24 03:42:40,tania,2006-02-15 20:14:54,S,,0.0
+310,1000321,1000312,,0.35,,0.0,72.0,,R,B,tania,2011-11-24 03:42:40,tania,2006-02-20 18:41:01,S,,9.0
+311,1000322,1000313,,0.35,,0.0,16.0,,K,T,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,4.5
+312,1000323,1000314,,0.36,,0.0,51.5,,K,T,tania,2011-11-24 03:42:40,tania,2006-03-14 21:21:49,S,,29.5
+313,1000324,1000315,,-0.34,,0.0,28.0,,B,B,tania,2011-11-24 03:42:40,gurton,2010-03-26 20:47:37,S,,2.0
+314,1000325,1000316,,0.14,,0.0,17.0,,B,B,tania,2011-11-24 03:42:40,tania,2006-03-17 20:15:32,Z,,1.0
+315,1000326,1000317,,0.19,,0.0,37.5,,K,T,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,30.0
+316,1000327,1000318,,0.2,,0.0,35.5,,K,B,tania,2011-11-24 03:42:40,tania,2006-03-20 18:51:03,S,,25.0
+317,1000328,1000319,,0.12,"Between 15 - 28.5 cm, primary cord bears knots:",,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,23.0
+318,1000329,1000320,,0.0,Top Cord T24 and cords 144-149 are not attached.  They have been included here to preserve linearity of the khipu.,0.0,37.0,,B,B,tania,2012-03-17 22:25:26,pavlo,2012-03-17 22:25:26,,Top Cord T24 and cords 144-149 are not attached.  They have been included here to preserve linearity of the khipu.,0.0
+319,1000330,1000321,,0.44,"Main cord has three strands, each s-spun/z-ply; all three final ply = S.",0.0,51.0,W,D,K,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,"Main cord has three strands, each s-spun/z-ply; all three final ply = S.",0.0
+320,1000331,1000322,,0.38,,0.0,163.5,CN,K,K,tania,2011-11-24 03:42:40,tania,2006-04-03 18:49:05,S,,67.0
+321,1000332,1000323,,0.3,Beginning knot at 3.0 cm.,0.0,123.0,CN,D,,tania,2011-11-24 03:42:40,gurton,2010-03-12 22:41:25,S,Beginning knot at 3.0 cm.,0.5
+322,1000333,1000324,,0.0,,0.0,243.5,,K,T,tania,2011-11-24 03:42:40,tania,2006-10-23 22:19:57,U,,190.0
+323,1000334,1000325,,0.0,,0.0,38.5,,K,T,tania,2011-11-24 03:42:40,tania,2006-10-23 22:51:10,U,,5.5
+324,1000335,1000326,,0.31,,0.0,38.0,,,T,tania,2011-11-24 03:42:40,eric,1970-02-26 02:59:51,S,,3.0
+325,1000336,1000327,,0.3,,0.0,56.0,,K,D,tania,2011-11-24 03:42:40,tania,2006-04-28 18:51:54,S,,5.5
+326,1000337,1000328,,0.36,,0.0,56.0,CN,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,29.5
+327,1000338,1000329,,0.27,,0.0,94.5,CL,R,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,15.5
+328,1000339,1000330,,0.0,This khipu has an unusual structure.  Illustration is given,0.0,43.5,CN,K,D,tania,2011-11-24 03:42:40,gurton,2010-03-12 20:44:11,S,This khipu has an unusual structure.  Illustration is given,0.5
+329,1000340,1000331,,0.3,,0.0,68.5,CN,R,B,tania,2011-11-24 03:42:40,gurton,2010-03-12 20:35:29,S,,14.5
+330,1000342,1000332,,0.0,,0.0,162.5,CN,K,T,tania,2011-11-24 03:42:40,gurton,2010-02-17 17:46:06,S,,0.0
+331,1000344,1000333,,0.25,,0.0,116.0,CN,B,K,tania,2011-11-24 03:42:40,gurton,2010-09-07 19:37:47,S,,0.0
+332,1000345,1000334,,0.0,,0.0,69.0,,K,T,tania,2011-11-24 03:42:40,tania,2006-10-24 22:15:35,U,,43.0
+333,1000346,1000335,,0.0,,0.0,77.5,CN,K,K,tania,2011-11-24 03:42:40,gurton,2010-02-18 16:32:41,S,,47.5
+334,1000347,1000336,,0.23,,0.0,53.0,CL,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,26.0
+335,1000348,1000337,,0.23,Primary cord tied into a loop.,0.0,46.5,CL,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Primary cord tied into a loop.,26.5
+336,1000349,1000338,,0.2,Primary cord tied into a loop.,0.0,28.5,CL,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,Primary cord tied into a loop.,13.5
+337,1000350,1000339,,0.13,,0.0,30.5,CN,K,K,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,13.0
+338,1000351,1000340,,0.34,,0.0,22.0,CN,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,3.0
+339,1000352,1000341,,0.2,,0.0,24.0,,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,,6.5
+340,1000353,1000342,,0.15,,0.0,14.5,CN,B,B,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,7.0
+341,1000354,1000343,,0.12,,0.0,82.0,CL,R,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,38.5
+342,1000355,1000344,,0.16,Primary cord is knotted:,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,28.0
+343,1000356,1000345,,0.23,,0.0,30.0,CN,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,4.0
+344,1000357,1000346,,0.54,,0.0,23.5,CN,K,D,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,19.0
+345,1000358,1000347,,0.44,,0.0,4.0,CN,B,B,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.0
+346,1000359,1000348,,0.54,,0.0,51.0,CN,K,B,tania,2011-11-24 03:42:40,gurton,2010-02-12 21:17:23,S,,3.0
+347,1000360,1000349,,0.0,,0.0,46.5,,K,T,tania,2011-11-24 03:42:40,tania,2006-06-16 19:34:28,U,,19.0
+348,1000361,1000350,,0.0,,0.0,93.5,,B,T,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,6.0
+349,1000363,1000352,B,0.5,"Structure of primary cord is a 4-sided braid.  Beginning and end descriptions are not noted.  Number of elements in braid unknown.  From 3.0 to 3.5 cm, there is a thread wrapping of MB.  ",0.0,67.0,CL,,,cbrezine,2011-11-24 03:42:40,cbrezine,2006-06-28 22:53:51,U,"Structure of primary cord is a 4-sided braid.  Beginning and end descriptions are not noted.  Number of elements in braid unknown.  From 3.0 to 3.5 cm, there is a thread wrapping of MB.  ",
+350,1000364,1000353,,0.0,,0.0,151.0,,K,T,tania,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,69.0
+351,1000365,1000354,P,0.0,,0.0,81.0,CN,K,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,55.0
+352,1000366,1000355,P,0.0,,0.0,56.5,CN,K,T,eric,2011-11-24 03:42:40,gurton,2010-02-19 16:32:16,S,,25.0
+353,1000367,1000356,P,0.0,,0.0,15.0,CN,B,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,1.5
+354,1000368,1000357,P,0.0,,0.0,138.5,CN,K,K,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,80.0
+355,1000369,1000358,P,0.0,,0.0,124.0,CN,K,K,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,53.5
+356,1000371,1000360,P,0.0,,0.0,151.0,CN,K,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,U,,69.0
+357,1000374,1000363,P,9.23,,0.0,82.0,CN,R,D,eric,2012-04-20 19:48:05,julia,2012-04-20 19:48:05,Z,,
+358,1000375,1000364,P,0.15,,0.0,50.0,CC,K,,eric,2012-04-23 17:20:55,julia,2012-04-23 17:20:54,Z,,19.5
+359,1000376,1000365,P,3.9,"Thickness is the average of four readings: 4.6, 2.79, 4.7, 3.5.   There is a knot in the primary cord from 6.0 - 7.5 and another one from 32.0 - 33.0.  ",,0.0,H,K,R,,2012-04-20 19:29:36,julia,2012-04-20 19:29:36,S,,
+360,1000377,1000366,P,0.23,thickness listed as .22-.25,0.0,16.5,CN,B,B,eric,2012-04-20 18:49:35,julia,2012-04-20 18:49:35,,thickness listed as .22-.25,0.0
+361,1000378,1000367,P,0.1,thickness = .08-.11,0.0,5.0,CN,B,B,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,thickness = .08-.11,1.0
+362,1000380,1000368,P,4.16,thickness listed as : 4.7/3.5/4.3,0.0,86.5,CN,K,K,eric,2012-04-23 17:48:32,julia,2012-04-23 17:48:32,S,thickness listed as : 4.7/3.5/4.3,9.0
+363,1000381,1000369,W,0.65,"Beginning: ""needlework bundle"":  wrapping in brown and white stripes of ~.5cm ea. Wrapped over a core of cords. ",,90.0,CL,,NB,,2012-04-20 19:12:59,julia,2012-04-20 19:12:59,,,
+364,1000382,1000370,B,0.57,Structure: braided (over a core),,60.0,CL,B,D,,2012-04-20 18:57:48,julia,2012-04-20 18:57:48,,,
+365,1000383,1000371,B,0.63,Thickness: 6.3/6.27/6.5 (mm?),0.0,63.0,CL,R,D,eric,2012-04-20 19:47:29,julia,2012-04-20 19:47:29,,Thickness: 6.3/6.27/6.5 (mm?),
+366,1000385,1000372,W,0.32,Thread wrapped with colored camelid threads,,99.0,CL,D,D,,2012-04-20 19:45:45,julia,2012-04-20 19:45:44,,,
+367,1000386,1000373,P,0.0,,0.0,8.0,CN,B,B,eric,2013-05-16 19:07:08,julia,2013-05-16 19:07:08,S,,0.0
+368,1000387,1000374,P,0.0,,0.0,36.0,CN,K,T,eric,2012-04-20 18:30:25,julia,2012-04-20 18:30:25,S,,0.0
+369,1000388,1000375,P,0.0,,0.0,22.0,CN,K,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,12.0
+370,1000389,1000376,P,0.0,end: knotted with twisted tail,0.0,20.5,CN,K,T,eric,2012-04-20 18:27:50,julia,2012-04-20 18:27:50,S,end: knotted with twisted tail,13.5
+371,1000390,1000377,P,0.0,,0.0,31.5,CN,B,B,eric,2013-05-16 19:04:33,julia,2013-05-16 19:04:33,S,,0.0
+372,1000392,1000378,P,0.0,The last pendant is attached through the twisted end of the cord and falls at the very end. How  can a cord have two twisted ends? We were unable to determine...,0.0,14.0,CN,K,T,eric,2011-11-24 03:42:40,eric,2007-04-13 16:01:44,Z,The last pendant is attached through the twisted end of the cord and falls at the very end. How  can a cord have two twisted ends? We were unable to determine...,0.0
+373,1000393,1000379,P,0.0,,0.0,16.0,CN,B,B,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,6.5
+374,1000395,1000380,P,0.0,broken @ 7.ocm,0.0,15.5,CN,B,B,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,broken @ 7.ocm,7.0
+375,1000396,1000381,P,0.0,Begins with a wrapped end (2cm); to fiirst cord group=4.5cm,0.0,81.5,CN,R,,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,Begins with a wrapped end (2cm); to fiirst cord group=4.5cm,14.0
+376,1000397,1000382,P,0.31,,0.0,34.0,CN,B,T,eric,2013-05-16 20:34:29,julia,2013-05-16 20:34:29,S,,6.0
+377,1000398,1000383,P,0.0,,0.0,46.5,CN,R,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,31.5
+378,1000399,1000384,P,0.0,,0.0,91.5,CN,R,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,64.5
+379,1000400,1000385,P,0.0,"3 elements, each with many single plies",,0.0,CN,B,B,,2013-05-20 20:27:01,julia,2013-05-20 20:27:01,S,,16.0
+380,1000401,1000386,P,0.0,,0.0,32.0,CN,K,B,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,25.5
+381,1000402,1000387,P,0.27,"No length specified... last group at 31.0cm, 3 cords, and space of 3.0cm",,31.0,CN,,,,2013-05-20 17:57:52,julia,2013-05-20 17:57:52,S,,3.0
+382,1000403,1000388,P,0.0,thickness: .35/.44/.38,0.0,38.5,CN,B,B,eric,2013-05-20 17:26:23,julia,2013-05-20 17:26:23,S,thickness: .35/.44/.38,2.0
+383,1000404,1000389,P,0.0,,0.0,20.5,CN,R,K,eric,2013-05-20 18:05:54,julia,2013-05-20 18:05:54,S,,1.0
+384,1000405,1000390,P,0.46,Thickness: .47/.45,,28.5,CN,R,K,,2013-05-20 18:11:46,julia,2013-05-20 18:11:46,,,12.0
+385,1000406,1000391,P,0.0,Dark brown almost entirely disintegrated. Remaining primary cord almost entirely covered by pendants. Broken both ends.,0.0,6.5,CN,B,B,eric,2011-11-24 03:42:40,eric,2007-05-02 15:34:15,S,Dark brown almost entirely disintegrated. Remaining primary cord almost entirely covered by pendants. Broken both ends.,1.0
+386,1000407,1000392,P,0.0,,0.0,23.5,CL,,T,eric,2011-11-24 03:42:40,eric,2007-06-04 20:39:16,S,,0.0
+387,1000408,1000393,P,0.0,twisted end,0.0,29.0,CN,U,R,eric,2013-06-03 21:45:26,julia,2013-06-03 21:45:26,S,twisted end,5.5
+388,1000409,1000394,P,0.0,,0.0,31.5,CN,R,B,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,26.0
+389,1000410,1000395,P,0.17,thickness: .19/.15,0.0,20.0,CN,K,T,eric,2012-04-18 17:14:52,julia,2012-04-18 17:14:52,S,thickness: .19/.15,14.0
+390,1000411,1000396,P,0.0,,0.0,30.0,CN,K,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,21.0
+391,1000412,1000397,P,0.0,,0.0,13.5,CN,B,T,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,8.5
+392,1000413,1000398,P,0.21,thickness: .26/.20/.17,0.0,35.5,CN,B,B,eric,2013-05-20 18:37:50,julia,2013-05-20 18:37:50,,thickness: .26/.20/.17,0.5
+393,1000414,1000399,P,0.0,,0.0,10.5,CN,,,eric,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.5
+394,1000415,1000400,P,0.25,thickness: .25/.26/.25,0.0,102.0,CN,,,eric,2012-04-18 17:27:15,julia,2012-04-18 17:27:15,S,thickness: .25/.26/.25,23.0
+395,1000416,1000401,P,0.16,,0.0,12.5,CN,K,T,eric,2013-05-16 20:42:34,julia,2013-05-16 20:42:34,S,,9.0
+396,1000417,1000402,P,0.34,Thickness: .31/.38,0.0,26.0,CN,B,T,eric,2012-04-25 20:16:04,julia,2012-04-25 20:16:04,S,Thickness: .31/.38,2.0
+397,1000418,1000403,P,0.0,thickness: .17/.21/.22/.15,,69.0,,C,K,,2013-06-03 22:01:07,julia,2013-06-03 22:01:07,S,,1.5
+398,1000419,1000404,P,0.0,thickness: .38/.35/.38,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,
+399,1000420,1000405,P,0.0,,0.0,52.0,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,41.0
+400,1000421,1000406,,0.0,,0.0,67.0,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,54.0
+401,1000422,1000407,,0.0,,0.0,30.0,CN,B,B,gurton,2011-11-24 03:42:40,gurton,2007-10-17 19:57:33,S,,0.0
+402,1000423,1000408,,0.0,,0.0,54.5,CN,K,D,gurton,2011-11-24 03:42:40,gurton,2007-10-19 21:20:06,Z,,39.5
+403,1000424,1000409,,0.0,,0.0,37.0,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,29.2
+404,1000425,1000410,,0.0,,0.0,12.2,CN,B,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,1.4
+405,1000426,1000411,,0.0,,0.0,10.3,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.7
+406,1000427,1000412,,0.0,,0.0,8.8,CN,B,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,1.0
+407,1000428,1000413,,0.0,,0.0,45.5,CN,B,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,,44.5
+408,1000429,1000414,,0.0,,0.0,43.0,CN,U,K,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,24.0
+409,1000430,1000415,,0.0,,0.0,32.0,CN,U,B,gurton,2011-11-24 03:42:40,gurton,2007-10-26 17:56:51,S,,21.2
+410,1000431,1000416,,0.0,,0.0,15.8,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,1.5
+411,1000432,1000417,,0.0,,0.0,5.0,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.2
+412,1000433,1000418,,0.0,,0.0,56.0,CN,K,D,gurton,2011-11-24 03:42:40,gurton,2007-10-29 20:08:19,S,,5.5
+413,1000434,1000419,,0.0,,0.0,45.0,CN,K,K,gurton,2011-11-24 03:42:40,robyn,2021-04-26,Z,,37.8
+414,1000435,1000420,,0.0,,0.0,1.4,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.2
+415,1000436,1000421,,0.0,,0.0,42.0,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,3.7
+416,1000437,1000422,,0.0,,0.0,15.0,CN,B,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,1.9
+417,1000438,1000423,,0.0,,0.0,27.8,CN,K,K,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,14.4
+418,1000439,1000424,,0.0,,0.0,71.0,CN,K,K,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,58.0
+419,1000440,1000425,,0.0,,0.0,41.0,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,34.4
+420,1000441,1000426,,0.0,,0.0,33.0,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,8.0
+421,1000442,1000427,,0.0,,0.0,57.5,CN,K,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,48.0
+422,1000443,1000428,,0.0,,0.0,3.1,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.2
+423,1000444,1000429,,0.0,,0.0,46.0,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,17.0
+424,1000445,1000430,,0.0,,0.0,33.2,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,,18.2
+425,1000446,1000431,,0.0,,0.0,17.8,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,0.0
+426,1000447,1000432,,0.0,,0.0,50.0,CN,B,D,gurton,2011-11-24 03:42:40,gurton,2007-11-17 20:27:29,S,,43.0
+427,1000448,1000433,,0.0,,0.0,28.0,CN,B,B,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,,0.0
+428,1000449,1000434,,0.0,,0.0,42.4,CN,B,TL,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,Z,,1.5
+429,1000450,1000435,,0.0,,0.0,71.0,CN,K,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,57.0
+430,1000451,1000436,,0.0,,0.0,15.2,CN,C,D,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,4.5
+431,1000452,1000437,,0.0,0.0-1.5 cm ravelled end to thread-wrap (AB),,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.5
+432,1000453,1000439,,0.0,,0.0,69.5,CN,,,gurton,2011-11-24 03:42:40,gurton,2008-03-12 19:44:23,S,,2.0
+433,1000454,1000456,,0.0,Group 2:  looped top cord around entire group and another around 18.,,,,,,,2011-11-24 03:42:40,,2011-09-29 04:52:18,,,0.5
+434,1000455,1000440,,0.0,,0.0,36.0,CN,K,T,gurton,2011-11-24 03:42:40,gurton,2008-03-17 18:36:29,S,,11.0
+435,1000456,1000441,,0.0,,0.0,11.0,,,,gurton,2011-11-24 03:42:40,gurton,2009-02-11 18:01:15,S,,0.0
+436,1000457,1000442,,0.0,,0.0,28.0,,,,gurton,2011-11-24 03:42:40,gurton,2008-03-12 20:03:34,S,,5.0
+437,1000458,1000443,,0.0,,0.0,13.0,,,,gurton,2011-11-24 03:42:40,gurton,2008-03-12 20:13:57,S,,0.5
+438,1000459,1000444,,0.0,,0.0,68.0,,,,gurton,2011-11-24 03:42:40,gurton,2008-03-12 20:24:31,S,,37.0
+439,1000460,1000445,,0.0,,0.0,72.0,,,,gurton,2011-11-24 03:42:40,gurton,2008-03-12 20:25:09,S,,63.5
+440,1000461,1000446,,0.0,,0.0,76.0,,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,6.5
+441,1000462,1000447,,0.0,,0.0,43.5,,,,gurton,2011-11-24 03:42:40,gurton,2008-03-12 20:38:20,S,,0.0
+442,1000463,1000448,,0.0,,0.0,108.0,,,,gurton,2011-11-24 03:42:40,gurton,2008-03-12 20:45:50,S,,2.5
+443,1000464,1000449,,0.0,,0.0,107.0,,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,
+444,1000465,1000450,,0.0,,0.0,80.0,CN,,,gurton,2011-11-24 03:42:40,gurton,2008-03-07 16:05:56,S,,
+445,1000466,1000451,,0.0,,0.0,102.0,,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,
+446,1000467,1000452,,0.0,,0.0,0.0,CN,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,
+447,1000468,1000453,,0.0,,0.0,29.8,CN,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,
+448,1000469,1000454,,0.0,,0.0,40.0,CN,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,
+449,1000470,1000455,,0.0,,0.0,88.0,,,,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,
+450,1000471,1000457,,0.0,No information provided for primary cord; total length estimated.,0.0,70.0,,,,gurton,2011-11-24 03:42:40,gurton,2008-04-03 16:15:18,Z,No information provided for primary cord; total length estimated.,0.0
+451,1000472,1000458,P,0.0,possibly vegetal fiber in the last 8.0 cm,0.0,62.0,CN,B,K,cbrezine,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,possibly vegetal fiber in the last 8.0 cm,9.0
+452,1000474,1000459,P,0.24,,0.0,66.0,CN,K,T,gurton,2014-03-10 18:52:42,gurton,2014-03-10 18:52:42,,,58.5
+453,1000475,1000460,P,0.23,,0.0,47.5,CN,K,T,gurton,2012-04-16 19:46:31,julia,2012-04-16 19:46:31,S,,32.0
+454,1000477,1000462,P,0.3,,0.0,18.5,CN,B,T,gurton,2012-04-16 19:23:04,julia,2012-04-16 19:23:04,S,,0.0
+455,1000478,1000463,P,0.22,,0.0,31.0,CN,K,T,gurton,2012-03-26 19:42:54,julia,2012-03-26 19:42:54,S,,10.5
+456,1000479,1000464,P,0.28,,0.0,34.0,CN,K,T,gurton,2012-03-26 19:42:36,julia,2012-03-26 19:42:36,S,,21.0
+457,1000480,1000465,,0.37,,0.0,28.5,CN,,K,gurton,2012-03-26 19:41:57,julia,2012-03-26 19:41:57,S,,24.0
+458,1000481,1000466,,0.17,,0.0,55.0,CN,K,T,gurton,2012-03-26 19:42:14,julia,2012-03-26 19:42:14,S,,20.0
+459,1000482,1000467,P,0.17,,0.0,44.0,CN,R,R,gurton,2012-03-26 19:45:26,julia,2012-03-26 19:45:26,S,,7.5
+460,1000483,1000468,P,0.31,,0.0,38.0,CN,,NB,gurton,2012-03-26 19:43:12,julia,2012-03-26 19:43:12,S,,31.0
+461,1000485,1000469,P,0.13,"Space of 6.0 cm to knot, space of 7.5 cm from knot to cord group.",0.0,28.0,CL,R,K,gurton,2013-03-08 16:58:56,julia,2013-03-08 16:58:56,,"Space of 6.0 cm to knot, space of 7.5 cm from knot to cord group.",11.0
+462,1000486,1000470,,0.15,,0.0,32.5,CL,C,R,gurton,2013-03-08 17:03:39,julia,2013-03-08 17:03:39,,,18.5
+463,1000487,1000471,P,0.23,,0.0,51.5,CN,K,T,gurton,2012-03-26 19:45:43,julia,2012-03-26 19:45:43,Z,,27.0
+464,1000488,1000472,P,0.38,,0.0,38.0,CN,R,B,gurton,2012-03-26 19:45:58,julia,2012-03-26 19:45:58,S,,16.0
+465,1000489,1000473,P,0.16,,0.0,33.5,CN,K,K,gurton,2013-03-08 17:00:40,julia,2013-03-08 17:00:40,,,22.0
+466,1000490,1000475,P,0.21,"Primary Cord looks to be four khipus knotted together.  For the purposes of this data entry, we assume that it is one primary cord looped into four sections, which we have entered as looped pendant cords with subsidiary cords.  Please refer to original record sheet for drawing.  ",0.0,43.0,CN,K,K,gurton,2012-03-26 19:46:14,julia,2012-03-26 19:46:14,S,"Primary Cord looks to be four khipus knotted together.  For the purposes of this data entry, we assume that it is one primary cord looped into four sections, which we have entered as looped pendant cords with subsidiary cords.  Please refer to original record sheet for drawing.  ",0.0
+467,1000491,1000474,P,0.13,,0.0,31.5,CL,K,R,gurton,2013-03-08 17:09:44,julia,2013-03-08 17:09:44,,,
+468,1000492,1000476,P,0.42,,0.0,77.0,CN,K,T,gurton,2012-03-26 19:47:47,julia,2012-03-26 19:47:47,S,,0.5
+469,1000493,1000477,P,0.15,KNOTS ON MAINCORD: ,,55.0,CN,U,R,,2012-04-23 19:16:29,julia,2012-04-23 19:16:29,Z,,1.5
+470,1000494,1000478,P,0.26,,0.0,28.5,CN,R,T,gurton,2012-03-26 19:43:31,julia,2012-03-26 19:43:31,S,,19.0
+471,1000495,1000479,P,0.25,,0.0,50.5,CN,K,T,gurton,2012-03-26 19:47:04,julia,2012-03-26 19:47:04,S,,19.0
+472,1000496,1000480,P,0.37,,0.0,13.0,CN,B,B,gurton,2012-04-16 19:58:27,julia,2012-04-16 19:58:26,S,,0.0
+473,1000497,1000481,P,0.13,,0.0,33.5,CN,R,R,gurton,2012-03-26 19:46:42,julia,2012-03-26 19:46:42,S,,1.5
+474,1000498,1000482,,0.0,,0.0,67.5,CN,B,T,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,10.0
+475,1000499,1000483,P,0.0,,0.0,107.0,CN,K,NB,gurton,2011-11-24 03:42:40,gurton,2010-02-19 21:56:25,S,,2.5
+476,1000500,1000484,P,0.29,,0.0,82.0,CN,K,K,gurton,2013-05-16 17:04:54,julia,2013-05-16 17:04:54,Z,,53.0
+477,1000501,1000485,P,0.19,,0.0,168.0,CN,K,B,gurton,2013-06-03 21:15:09,julia,2013-06-03 21:15:09,S,,50.0
+478,1000502,1000486,P,0.13,,0.0,37.0,CN,K,T,gurton,2013-05-15 21:35:39,julia,2013-05-15 21:35:39,S,,21.5
+479,1000503,1000487,,0.25,,0.0,108.0,CN,K,T,gurton,2013-03-06 16:37:53,julia,2013-03-06 16:37:53,S,,82.0
+480,1000504,1000488,,0.22,,0.0,75.0,CN,K,T,gurton,2013-04-12 15:34:07,julia,2013-04-12 15:34:07,,,10.0
+481,1000505,1000489,,0.46,,0.0,78.5,CN,R,T,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,60.0
+482,1000506,1000490,,0.25,,0.0,107.5,CN,K,T,gurton,2013-03-07 20:57:46,julia,2013-03-07 20:57:46,S,,47.0
+483,1000507,1000491,,0.28,,0.0,85.0,CN,R,T,gurton,2011-11-24 03:42:40,,0000-00-00 00:00:00,S,,6.5
+484,1000508,1000492,,0.32,,0.0,280.5,CN,K,T,gurton,2013-01-31 18:27:04,julia,2013-01-31 18:27:04,,,119.0
+485,1000509,1000493,,0.33,,0.0,72.0,CN,B,B,gurton,2013-04-12 17:01:08,julia,2013-04-12 17:01:08,S,,0.0
+486,1000510,1000494,,0.27,,0.0,78.0,CN,K,T,gurton,2013-03-07 21:52:07,julia,2013-03-07 21:52:07,S,,9.0
+487,1000511,1000495,,0.36,Both needlework bundles have tassels,0.0,77.5,CN,,NB,gurton,2013-04-10 19:37:23,julia,2013-04-10 19:37:23,S,,0.5
+488,1000512,1000496,,0.33,,0.0,62.4,CN,,NB,gurton,2013-04-10 20:38:40,julia,2013-04-10 20:38:40,,,0.0
+489,1000513,1000497,,0.3,,0.0,26.0,CN,B,T,gurton,2013-04-12 14:49:54,julia,2013-04-12 14:49:54,S,,0.0
+490,1000514,1000498,P,0.25,,0.0,109.5,CN,B,T,gurton,2013-05-16 19:14:15,julia,2013-05-16 19:14:15,S,,58.0
+491,1000515,1000499,,0.26,Primary cord of UR 205 inserted between beginning and first pendant group,0.0,30.0,CN,K,T,gurton,2013-04-12 17:58:13,julia,2013-04-12 17:58:13,S,,4.0
+492,1000516,1000500,,0.18,"Twisted end, space of 5.0 cm",,51.0,CN,R,T,,2013-04-12 17:49:17,julia,2013-04-12 17:49:17,S,,30.5
+493,1000517,1000501,,0.09,Primary cord is a looped thread whose free end is wound around the primary cord of UR 205 and passes through the opening in the twisted end of UR 204 (see diagram),,25.5,CN,K,K,,2013-04-12 17:45:58,julia,2013-04-12 17:45:58,S,,2.0
+494,1000518,1000502,P,0.35,,0.0,33.5,CN,B,B,gurton,2013-05-15 21:19:36,julia,2013-05-15 21:19:36,S,,0.0
+495,1000519,1000503,P,0.27,,0.0,240.0,CN,K,T,gurton,2013-05-15 20:55:53,julia,2013-05-15 20:55:53,S,,178.0
+496,1000520,1000504,P,0.27,,0.0,59.0,CN,K,T,gurton,2013-05-15 20:46:16,julia,2013-05-15 20:46:16,S,,11.0
+497,1000521,1000505,P,0.19,At 1.0 cm connection with decorative cord (see observations) space of 2.5 cm,,0.0,CN,K,T,,2013-05-14 18:45:59,julia,2013-05-14 18:45:59,Z,,19.0
+498,1000522,1000506,P,0.31,,0.0,74.0,CN,K,T,gurton,2013-06-03 21:42:35,julia,2013-06-03 21:42:35,,,3.5
+499,1000523,1000507,P,0.28,,0.0,172.0,CN,K,T,gurton,2013-05-13 20:41:56,julia,2013-05-13 20:41:56,S,,110.0
+500,1000524,1000508,P,0.25,,0.0,51.5,CN,K,K,gurton,2013-05-13 20:12:59,julia,2013-05-13 20:12:59,Z,,14.0
+501,1000525,1000509,P,0.14,,0.0,61.5,CN,K,T,gurton,2013-05-13 20:03:38,julia,2013-05-13 20:03:38,S,,3.0
+502,1000526,1000510,P,0.18,Final Twist:,,83.0,CN,K,T,,2013-05-13 19:29:00,julia,2013-05-13 19:29:00,,,23.5
+503,1000527,1000511,,0.34,,0.0,68.0,CN,B,B,gurton,2013-05-03 17:02:31,julia,2013-05-03 17:02:31,S,,43.0
+504,1000528,1000512,,0.3,,0.0,90.0,CN,R,T,gurton,2013-05-13 19:18:53,julia,2013-05-13 19:18:53,S,,0.0
+505,1000529,1000513,,0.06,,0.0,28.0,CN,B,T,gurton,2013-05-03 15:39:12,julia,2013-05-03 15:39:12,Z,,4.5
+506,1000530,1000514,,0.24,,0.0,106.0,CN,K,K,gurton,2013-05-03 15:25:14,julia,2013-05-03 15:25:14,S,,55.5
+507,1000531,1000515,,0.17,,0.0,24.5,CN,K,T,gurton,2013-05-03 15:16:42,julia,2013-05-03 15:16:42,S,,6.0
+508,1000532,1000516,,0.13,,0.0,17.5,CN,K,T,gurton,2013-05-03 15:08:31,julia,2013-05-03 15:08:31,S,,1.5
+509,1000533,1000517,,0.21,,0.0,40.0,CC,R,T,gurton,2013-05-03 14:58:11,julia,2013-05-03 14:58:11,S,,16.0
+510,1000534,1000518,,0.33,,0.0,66.0,CN,D,T,gurton,2013-05-03 14:37:34,julia,2013-05-03 14:37:34,S,,38.0
+511,1000535,1000519,,0.41,,0.0,57.0,CN,B,T,gurton,2013-05-03 14:30:00,julia,2013-05-03 14:30:00,S,,46.0
+512,1000536,1000520,,0.25,,0.0,137.0,CN,K,T,gurton,2013-05-03 14:13:24,julia,2013-05-03 14:13:24,S,,111.0
+513,1000537,1000521,,0.29,Attached to UR228 at 2.0 and 52.0 cm. ,0.0,56.0,CN,K,T,gurton,2013-05-03 14:10:39,julia,2013-05-03 14:10:39,S,,2.0
+514,1000538,1000522,,0.27,Knotted attachments to UR227 at 1.5 and 72.5 cm,0.0,77.0,CN,K,T,gurton,2013-05-03 14:04:32,julia,2013-05-03 14:04:32,S,,2.0
+515,1000539,1000523,,0.33,"Termination End listed as ""wrapped""",,59.0,CN,,T,,2013-05-03 13:49:46,julia,2013-05-03 13:49:46,S,,5.0
+516,1000540,1000524,,0.21,,0.0,47.0,CN,K,T,gurton,2013-05-01 20:48:23,julia,2013-05-01 20:48:23,Z,,5.5
+517,1000541,1000525,B,0.51,Final twist: Braided,0.0,304.0,CN,B,NB,gurton,2013-05-01 21:01:57,julia,2013-05-01 21:01:57,U,,4.0
+518,1000542,1000526,,0.28,Beginning end spliced with UR 233,0.0,81.0,CN,K,T,gurton,2013-05-01 20:33:46,julia,2013-05-01 20:33:46,S,,39.0
+519,1000543,1000527,,0.24,,0.0,66.0,CN,K,T,gurton,2013-05-01 20:02:15,julia,2013-05-01 20:02:15,S,,26.0
+520,1000544,1000528,,0.22,,0.0,78.0,CN,K,T,gurton,2013-04-24 14:01:13,julia,2013-04-24 14:01:13,S,,40.0
+521,1000545,1000529,,0.4,,0.0,119.0,CN,R,NB,gurton,2013-04-24 14:11:14,julia,2013-04-24 14:11:14,S,,56.0
+522,1000546,1000530,P,0.4,,0.0,109.0,CN,K,T,gurton,2013-05-16 19:52:38,julia,2013-05-16 19:52:37,S,,32.0
+523,1000547,1000531,,0.24,,0.0,51.0,CN,B,B,gurton,2013-04-22 18:36:52,julia,2013-04-22 18:36:52,S,,0.0
+524,1000548,1000532,,0.24,Attached to khipu UR 244 at 7.0 cm.,0.0,68.5,CN,K,T,gurton,2013-04-24 13:48:05,julia,2013-04-24 13:48:05,S,,54.0
+525,1000549,1000533,,0.22,,0.0,14.0,CL,B,B,gurton,2013-04-24 13:27:44,julia,2013-04-24 13:27:44,S,,2.5
+526,1000550,1000534,,0.22,,0.0,27.0,CN,R,K,gurton,2013-04-22 19:09:28,julia,2013-04-22 19:09:28,S,,24.0
+527,1000551,1000535,,0.23,,0.0,129.0,CN,R,K,gurton,2013-04-22 19:04:09,julia,2013-04-22 19:04:09,S,,64.0
+528,1000552,1000536,,0.37,,0.0,44.5,CN,K,T,gurton,2013-04-12 19:38:51,julia,2013-04-12 19:38:51,S,,1.0
+529,1000553,1000537,,0.35,,0.0,61.0,CN,R,B,gurton,2013-04-12 18:43:08,julia,2013-04-12 18:43:08,S,,47.5
+530,1000554,1000538,,0.21,,0.0,71.0,CN,K,T,gurton,2013-04-12 18:34:07,julia,2013-04-12 18:34:07,S,,18.0
+531,1000555,1000539,,0.5,2.0 cm. wrapping and attachment with UR 243,,121.5,CN,K,T,,2013-04-12 18:32:01,julia,2013-04-12 18:32:01,S,,2.0
+532,1000556,1000540,,0.25,,0.0,57.0,CN,K,B,gurton,2013-04-12 19:35:26,julia,2013-04-12 19:35:26,S,,4.5
+533,1000558,1000541,,0.24,,0.0,59.5,CN,K,T,gurton,2013-04-12 19:29:01,julia,2013-04-12 19:29:01,S,,46.5
+534,1000559,1000542,,0.18,,0.0,39.0,CN,K,T,gurton,2013-04-12 19:24:21,julia,2013-04-12 19:24:21,S,,14.5
+535,1000560,1000543,,0.28,,0.0,46.0,CN,K,T,gurton,2013-04-12 19:21:59,julia,2013-04-12 19:21:59,S,,33.5
+536,1000561,1000544,,0.22,,0.0,35.5,CN,K,T,gurton,2013-04-12 18:16:55,julia,2013-04-12 18:16:55,S,,16.0
+537,1000562,1000562,P,0.0,,,31.0,CN,K,D,julia,2012-01-30 19:38:45,julia,0000-00-00 00:00:00,,,11.5
+538,1000563,1000563,P,0.0,,,44.0,CN,R,K,julia,2012-01-30 19:40:13,julia,0000-00-00 00:00:00,,,5.1
+539,1000564,1000564,P,0.0,,,70.0,CN,K,D,julia,2011-11-24 03:42:40,julia,0000-00-00 00:00:00,Z,,19.5
+540,1000565,1000565,P,0.0,,,31.0,CN,R,D,julia,2012-05-25 15:37:29,pavlo,2012-05-25 15:37:29,,,5.5
+541,1000566,1000566,P,0.0,,,64.0,CN,U,D,julia,2012-01-04 16:36:18,pavlo,0000-00-00 00:00:00,,,0.0
+542,1000567,1000567,P,0.0,,,58.0,CN,B,B,julia,2012-01-04 16:36:26,pavlo,0000-00-00 00:00:00,,,3.0
+543,1000569,1000569,P,0.0,,,12.0,CN,B,B,julia,2012-01-04 16:36:36,pavlo,0000-00-00 00:00:00,,,1.3
+544,1000570,1000570,P,0.0,,,76.0,CN,K,D,julia,2012-01-30 19:42:10,julia,0000-00-00 00:00:00,,,12.5
+545,1000571,1000571,P,0.0,,,62.0,CN,K,D,julia,2012-01-04 16:36:45,pavlo,0000-00-00 00:00:00,,,44.0
+546,1000572,1000572,P,0.0,,,43.0,CN,K,D,julia,2012-01-30 20:00:31,,0000-00-00 00:00:00,S,,35.0
+547,1000573,1000573,P,0.0,,,24.0,CN,K,D,julia,2012-01-30 20:11:14,,0000-00-00 00:00:00,S,,7.0
+548,1000574,1000574,P,0.0,,,21.0,CN,B,B,julia,2012-01-30 21:11:30,,0000-00-00 00:00:00,S,,1.0
+549,1000575,1000575,P,0.0,,,44.0,CN,B,B,julia,2012-02-03 19:04:50,julia,0000-00-00 00:00:00,,,2.1
+550,1000576,1000576,P,0.0,,,46.0,CN,B,B,julia,2012-02-03 22:38:52,pavlo,0000-00-00 00:00:00,,,2.0
+551,1000577,1000577,P,0.0,,,31.0,CN,R,D,julia,2012-02-10 19:05:23,julia,2012-02-10 19:05:23,,,19.5
+552,1000578,1000578,P,0.0,,,32.0,CN,B,B,julia,2012-02-10 19:03:45,,0000-00-00 00:00:00,S,,12.0
+553,1000579,1000579,P,0.0,,,11.5,CN,B,D,julia,2012-02-10 19:10:03,,0000-00-00 00:00:00,S,,4.0
+554,1000580,1000580,P,0.0,,,63.5,CN,U,D,julia,2012-03-06 03:48:16,pavlo,2012-03-06 03:48:16,,,34.0
+555,1000581,1000581,P,0.0,,,65.0,CN,K,R,julia,2012-02-10 19:56:53,,0000-00-00 00:00:00,S,,39.0
+556,1000582,1000582,P,0.0,,,56.0,CN,B,K,julia,2012-02-10 20:27:21,,0000-00-00 00:00:00,S,,28.0
+557,1000583,1000583,P,0.0,,,52.0,CC,B,R,julia,2012-02-10 21:03:32,,0000-00-00 00:00:00,S,,6.0
+558,1000584,1000584,P,0.0,,,57.0,CN,B,B,julia,2012-02-13 18:29:32,julia,2012-02-13 18:29:32,,,24.0
+559,1000585,1000585,P,0.0,,,47.0,CN,K,D,julia,2012-02-13 19:10:05,,0000-00-00 00:00:00,S,,33.0
+560,1000586,1000586,P,0.0,,,47.0,CN,R,D,julia,2012-02-17 18:42:12,,0000-00-00 00:00:00,S,,5.0
+561,1000587,1000587,P,0.0,,,32.0,CN,R,K,julia,2012-02-17 20:23:34,,0000-00-00 00:00:00,S,,17.2
+562,1000588,1000588,P,0.0,,,112.0,CN,K,D,julia,2012-03-03 16:14:50,,0000-00-00 00:00:00,,,
+563,1000589,1000589,P,0.0,,,8.0,CN,B,B,julia,2012-02-27 18:31:28,,0000-00-00 00:00:00,S,,0.5
+564,1000590,1000590,P,0.0,,,153.0,CN,R,T,julia,2012-02-27 18:54:45,,0000-00-00 00:00:00,S,,126.5
+565,1000591,1000591,P,0.0,,,29.5,CN,B,TL,julia,2012-02-27 19:35:55,,0000-00-00 00:00:00,S,,0.5
+566,1000592,1000592,P,0.0,,,37.0,CN,K,T,julia,2013-05-16 17:24:09,julia,2013-05-16 17:24:09,,,28.5
+567,1000593,1000593,P,0.0,,,64.0,CN,K,D,julia,2012-03-02 19:13:09,,0000-00-00 00:00:00,S,,15.0
+568,1000594,1000594,,0.0,,,0.0,,,,gurton,2014-02-24 20:22:12,,0000-00-00 00:00:00,,,
+569,1000595,1000595,P,0.0,,,46.0,CN,K,K,gurton,2014-04-24 16:19:00,gurton,2014-04-24 16:19:00,,,35.5
+570,1000597,1000597,P,0.0,,,93.0,CN,K,K,julia,2015-11-06 16:29:40,julia,2015-11-06 16:29:40,,,41.0
+571,1000598,1000598,P,0.0,,,94.0,CN,R,K,julia,2015-11-09 04:16:29,,0000-00-00 00:00:00,S,,47.0
+572,1000599,1000599,P,0.0,,,53.0,CN,K,K,julia,2015-11-11 04:38:12,,0000-00-00 00:00:00,S,,32.5
+573,1000600,1000600,P,0.0,,,45.5,CN,K,K,julia,2015-11-11 05:27:14,,0000-00-00 00:00:00,S,,10.0
+574,1000601,1000601,P,0.0,,,33.0,CN,K,K,julia,2015-11-11 05:44:21,,0000-00-00 00:00:00,S,,7.5
+575,1000602,1000602,P,0.0,,,24.5,CN,B,K,julia,2015-11-13 05:10:09,,0000-00-00 00:00:00,S,,0.5
+576,1000603,1000603,P,0.0,,,95.5,CN,K,T,julia,2015-11-16 04:03:58,julia,2015-11-16 04:03:58,,,0.5
+577,1000604,1000604,P,0.0,,,122.5,CN,K,B,julia,2015-11-16 04:23:39,,0000-00-00 00:00:00,S,,16.5
+578,1000605,1000605,P,0.0,,,86.5,CN,K,B,julia,2015-11-19 06:09:02,julia,2015-11-19 06:09:02,,,2.0
+579,1000606,1000606,P,0.0,,,43.0,CN,K,T,julia,2015-11-19 06:14:39,julia,2015-11-19 06:14:39,,,1.0
+580,1000607,1000607,P,0.0,,,114.0,CN,K,TL,julia,2015-11-20 06:08:35,,0000-00-00 00:00:00,,,36.0
+581,1000608,1000608,P,0.0,,,95.5,CN,R,T,julia,2015-11-22 04:51:31,,0000-00-00 00:00:00,S,,47.0
+582,1000609,1000609,P,0.0,,,56.0,CN,B,T,julia,2015-11-23 03:28:04,julia,2015-11-23 03:28:04,,,9.0
+583,1000610,1000610,P,0.0,,,131.0,CN,K,TL,julia,2015-11-25 05:26:16,,0000-00-00 00:00:00,S,,61.0
+584,1000611,1000611,P,0.0,,,216.0,CN,B,B,julia,2015-11-29 21:54:20,,0000-00-00 00:00:00,S,,30.5
+585,1000612,1000612,P,0.0,,,73.5,CN,R,T,julia,2015-12-08 01:41:47,,0000-00-00 00:00:00,S,,2.0
+586,1000613,1000613,P,0.0,,,29.5,CN,R,T,julia,2015-12-11 03:20:00,,0000-00-00 00:00:00,S,,18.0
+587,1000614,1000614,P,0.0,,,70.0,CN,B,T,julia,2015-12-13 05:18:50,,0000-00-00 00:00:00,S,,2.5
+588,1000615,1000615,P,0.0,,,127.0,CN,B,T,julia,2015-12-16 06:19:00,julia,2015-12-16 06:19:00,,,51.0
+589,1000616,1000616,P,0.0,,,164.0,CN,R,T,julia,2015-12-16 07:45:39,julia,2015-12-16 07:45:39,,,91.0
+590,1000617,1000617,P,0.0,,,101.0,CN,K,T,julia,2015-12-18 05:18:46,,0000-00-00 00:00:00,S,,21.5
+591,1000618,1000618,P,0.0,,,84.0,CN,K,T,julia,2015-12-18 15:23:05,julia,2015-12-18 15:23:05,,,19.5
+592,1000619,1000619,P,0.0,,,159.0,CN,K,T,julia,2016-01-21 05:19:09,,0000-00-00 00:00:00,S,,104.5
+593,1000620,1000620,P,0.0,,,48.0,CN,K,T,julia,2016-01-22 05:30:09,,0000-00-00 00:00:00,S,,37.0
+594,1000621,1000621,P,0.0,,,20.5,CN,K,T,julia,2016-01-22 05:41:58,,0000-00-00 00:00:00,S,,10.0
+595,1000622,1000622,P,0.0,,,60.0,CN,B,T,julia,2016-01-23 21:22:26,julia,2016-01-23 21:22:26,,,2.5
+596,1000623,1000623,P,0.0,,,153.0,CN,K,T,julia,2016-01-28 05:34:58,,0000-00-00 00:00:00,S,,1.5
+597,1000624,1000624,P,0.0,,,68.0,CN,K,B,julia,2016-01-31 17:03:01,julia,2016-01-31 17:03:01,,,22.5
+598,1000625,1000625,P,0.0,,,70.0,CN,K,D,gurton,2017-01-03 20:42:31,,0000-00-00 00:00:00,S,,0.7
+599,1000626,1000626,P,0.0,,,76.0,CN,K,T,gurton,2017-01-05 02:33:04,gurton,2017-01-05 02:33:04,,,0.9
+600,1000627,1000627,P,0.0,,,45.0,CN,K,T,gurton,2017-01-05 02:33:19,gurton,2017-01-05 02:33:19,,,0.8
+601,1000628,1000628,P,0.0,,,30.0,CN,B,K,gurton,2017-01-03 22:17:41,,0000-00-00 00:00:00,S,,1.8
+602,1000629,1000629,P,0.0,,,64.0,CN,K,D,gurton,2017-01-05 01:49:13,gurton,2017-01-05 01:49:13,,,0.0
+603,1000630,1000630,P,0.0,,,35.0,CN,K,T,gurton,2017-01-05 02:32:41,,0000-00-00 00:00:00,S,,1.9
+604,1000631,1000631,P,0.0,,,44.0,CN,K,T,gurton,2017-01-05 02:46:45,,0000-00-00 00:00:00,S,,0.5
+605,1000632,1000632,P,0.0,,,6.0,CN,U,X,gurton,2017-01-05 03:06:42,,0000-00-00 00:00:00,S,,1.2
+606,1000633,1000633,P,0.0,,,79.5,CN,K,T,gurton,2017-01-05 17:12:46,,0000-00-00 00:00:00,Z,,1.6
+607,1000634,1000634,P,0.0,,,59.0,CN,B,D,gurton,2017-01-07 18:29:56,gurton,2017-01-07 18:29:56,,,0.0
+608,1000635,1000635,P,0.0,,,84.0,CN,K,T,gurton,2017-01-07 19:37:28,,0000-00-00 00:00:00,S,,0.0
+609,1000636,1000636,P,0.0,,,16.0,CN,B,K,gurton,2017-01-07 20:59:04,,0000-00-00 00:00:00,S,,2.0
+610,1000637,1000637,P,0.0,,,83.5,CN,K,T,gurton,2017-01-07 21:28:15,,0000-00-00 00:00:00,S,,0.0
+611,1000638,1000638,P,0.0,,,42.0,CN,R,T,gurton,2017-01-08 15:28:44,,0000-00-00 00:00:00,S,,1.6
+612,1000639,1000639,P,0.0,,,35.0,CN,R,T,gurton,2017-01-08 16:17:15,,0000-00-00 00:00:00,Z,,1.4
+613,1000640,1000640,P,0.0,,,43.5,CN,K,T,gurton,2017-01-08 16:39:59,gurton,2017-01-08 16:39:59,,,2.7
+614,1000641,1000641,P,0.0,,,17.0,CN,R,T,gurton,2017-01-08 16:44:04,,0000-00-00 00:00:00,S,,1.0
+615,1000642,1000642,P,0.0,,,22.0,CN,B,T,gurton,2017-01-08 16:51:22,,0000-00-00 00:00:00,S,,0.6
+616,1000643,1000643,P,0.0,,,31.5,CN,K,T,gurton,2017-01-08 17:04:04,,0000-00-00 00:00:00,S,,0.5
+617,1000644,1000644,P,0.0,,,48.5,CN,R,K,gurton,2017-01-08 17:20:18,,0000-00-00 00:00:00,S,,0.5
+618,1000645,1000645,P,0.0,,,5.5,CN,B,B,gurton,2017-01-08 18:49:18,,0000-00-00 00:00:00,S,,0.0
+619,1000646,1000646,P,0.0,,,48.0,CN,R,T,gurton,2017-01-08 19:08:21,,0000-00-00 00:00:00,S,,0.9
+620,1000647,1000647,P,0.0,,,26.5,CN,B,T,gurton,2017-01-08 19:30:36,,0000-00-00 00:00:00,S,,0.4
+621,1000648,1000648,P,0.0,,,83.5,CN,K,TL,gurton,2017-10-01 21:49:41,,0000-00-00 00:00:00,S,,0.5
+622,1000649,1000649,P,0.0,,,31.0,CN,K,T,gurton,2017-10-03 21:00:42,,0000-00-00 00:00:00,S,,14.5
+623,1000650,1000650,P,0.0,,,93.0,CN,K,T,gurton,2017-10-04 14:31:09,,0000-00-00 00:00:00,S,,30.0
+624,1000651,1000651,P,0.0,,,51.5,CN,K,TL,gurton,2017-10-06 14:47:58,gurton,2017-10-06 14:47:58,,,39.5
+625,1000652,1000652,P,0.0,,,54.0,CN,K,K,gurton,2017-10-06 17:28:59,,0000-00-00 00:00:00,S,,41.0
+626,1000653,1000653,P,0.0,,,41.0,CN,K,T,gurton,2017-10-06 18:43:39,,0000-00-00 00:00:00,S,,38.0
+627,1000654,1000654,P,0.0,,,48.5,CN,K,K,gurton,2017-10-06 19:27:48,gurton,2017-10-06 19:27:48,,,32.5
+628,1000655,1000655,P,0.0,,,27.0,CN,K,K,gurton,2017-10-06 19:38:43,,0000-00-00 00:00:00,S,,8.5
+629,1000656,1000656,P,0.0,,,40.0,CN,K,T,gurton,2018-02-26 20:28:48,gurton,2018-02-26 20:28:48,,,22.5
+630,1000657,1000657,P,0.0,,,25.0,CN,K,T,gurton,2018-02-26 20:29:00,gurton,2018-02-26 20:29:00,,,20.5
+631,1000658,1000658,P,0.0,,,44.0,CN,B,NB,gurton,2018-02-26 20:29:11,gurton,2018-02-26 20:29:11,,,0.0
+632,1000659,1000659,P,0.0,,,57.0,CN,K,T,gurton,2018-02-26 20:29:27,gurton,2018-02-26 20:29:27,,,13.0
+633,1000660,1000660,P,0.0,,,19.0,CN,K,K,gurton,2018-02-26 20:29:36,gurton,2018-02-26 20:29:36,,,14.5
+634,1000661,1000661,P,0.0,,,31.0,CN,K,T,gurton,2018-02-26 20:29:43,gurton,2018-02-26 20:29:43,,,27.5
+635,1000664,1000662,,,,,17.7,,,,robyn,2021-06-01,,0000-00-00 00:00:00,,,10.0
+636,1000665,1000664,,,,,73.0,,,,robyn,2021-06-01,,0000-00-00 00:00:00,,,40.0
+637,1000666,1000665,,,,,36.5,,,,robyn,2021-06-01,,0000-00-00 00:00:00,,,5.0
+638,1000668,1000667,,,,,41.0,,,,robyn,2021-06-02,,0000-00-00 00:00:00,,,0.5
+639,1000669,1000668,,,,,54.5,,,,robyn,2021-06-03,,0000-00-00 00:00:00,,,6.0
+640,1000670,1000669,,,,,55.0,,,,robyn,2021-06-03,,0000-00-00 00:00:00,,,30.0
+641,1000671,1000670,,,,,94.0,,,,robyn,2021-06-05,,0000-00-00 00:00:00,,,20.0
+642,1000672,1000671,,,,,217.5,,,,robyn,2021-06-05,,0000-00-00 00:00:00,,,1.0
+643,1000673,1000672,,,,,38.0,,,,robyn,2021-06-06,,0000-00-00 00:00:00,,,0.5
+644,996,1000675,,,,,20.0,,,,robyn,2023,,0000-00-00 00:00:00,,,3.0
